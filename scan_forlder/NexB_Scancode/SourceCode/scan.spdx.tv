@@ -1,0 +1,1165 @@
+## Document Information
+SPDXVersion: SPDX-2.2
+DataLicense: CC0-1.0
+SPDXID: SPDXRef-DOCUMENT
+DocumentName: SPDX Document created by ScanCode Toolkit
+DocumentNamespace: http://spdx.org/spdxdocs/spring_petclinic-9ed07cbe-5f76-4a37-9d33-e3b1c43a8c0c
+DocumentComment: <text>Generated with ScanCode and provided on an "AS IS" BASIS, WITHOUT WARRANTIES
+OR CONDITIONS OF ANY KIND, either express or implied. No content created from
+ScanCode should be considered or used as legal advice. Consult an Attorney
+for any legal advice.
+ScanCode is a free software code scanning tool from nexB Inc. and others.
+Visit https://github.com/nexB/scancode-toolkit/ for support and download.
+SPDX License List: 3.26</text>
+
+## Creation Information
+LicenseListVersion: 3.26
+Creator: Tool: scancode-toolkit v32.3.3-107-g1b90d50a93
+Created: 2025-04-15T11:45:17Z
+
+## Package Information
+PackageName: spring_petclinic
+SPDXID: SPDXRef-001
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: true
+PackageVerificationCode: fba66db67341f7534785d19fc63f5f6df7151933
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseInfoFromFiles: Apache-2.0
+PackageLicenseInfoFromFiles: BSD-2-Clause
+PackageLicenseInfoFromFiles: BSD-3-Clause
+PackageLicenseInfoFromFiles: CC0-1.0
+PackageLicenseInfoFromFiles: Classpath-exception-2.0
+PackageLicenseInfoFromFiles: EPL-1.0
+PackageLicenseInfoFromFiles: EPL-2.0
+PackageLicenseInfoFromFiles: GPL-2.0-only
+PackageLicenseInfoFromFiles: LGPL-2.0-or-later
+PackageLicenseInfoFromFiles: LGPL-2.1-only
+PackageLicenseInfoFromFiles: LGPL-2.1-or-later
+PackageLicenseInfoFromFiles: LGPL-3.0-or-later
+PackageLicenseInfoFromFiles: LicenseRef-scancode-free-unknown
+PackageLicenseInfoFromFiles: LicenseRef-scancode-unknown-license-reference
+PackageLicenseInfoFromFiles: MIT
+PackageLicenseInfoFromFiles: MPL-2.0
+PackageLicenseInfoFromFiles: OFL-1.1
+PackageLicenseInfoFromFiles: Universal-FOSS-exception-1.0
+PackageLicenseDeclared: NOASSERTION
+PackageCopyrightText: <text>(c) 2011, Joe Prince, Admix Designs (http://www.admixdesigns.com/)
+Copyright (c) 2011, Joe Prince, Admix Designs (http://www.admixdesigns.com/)
+Copyright (c) 2011-2012, Julieta Ulanovsky (julieta.ulanovsky@gmail.com)
+Copyright (c) 2015-2021 the original
+Copyright 2011-2024 The Bootstrap Authors
+Copyright 2012-2019 the original author or authors
+Copyright 2012-2024 the original author or authors
+Copyright 2015 the original author or authors
+Copyright 2016 the original author or authors
+</text>
+
+## File Information
+FileName: ./spring-petclinic/.editorconfig
+SPDXID: SPDXRef-2
+FileChecksum: SHA1: a24a52832c325cd3378711977b0b40ef3d4929a3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./spring-petclinic/.gitpod.yml
+SPDXID: SPDXRef-3
+FileChecksum: SHA1: 43f2f3c77fc8fb4ee40e1dd7d3598d4e2221b0fb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./spring-petclinic/build.gradle
+SPDXID: SPDXRef-4
+FileChecksum: SHA1: a96e57078dce1b9d14e96989d7d3fa6e761f7fee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./spring-petclinic/docker-compose.yml
+SPDXID: SPDXRef-5
+FileChecksum: SHA1: de1cfd7e9307cf3ef113776519e6330ccb4da9b1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./spring-petclinic/gradlew
+SPDXID: SPDXRef-6
+FileChecksum: SHA1: 8354dd64ce8112f42852288ed83e22d0b26a3e4c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text>Copyright (c) 2015-2021 the original
+</text>
+
+## File Information
+FileName: ./spring-petclinic/gradlew.bat
+SPDXID: SPDXRef-7
+FileChecksum: SHA1: f6334c7d62f27d3e1af81f5896e30aeeebcef324
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text>Copyright 2015 the original author or authors
+</text>
+
+## File Information
+FileName: ./spring-petclinic/LICENSE.txt
+SPDXID: SPDXRef-8
+FileChecksum: SHA1: 9e72cc8f584b4a6777f308ea6a5901d40b07b07d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./spring-petclinic/mvnw
+SPDXID: SPDXRef-9
+FileChecksum: SHA1: 1541123a666cd3a069d8326a1225cab06c7973c9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./spring-petclinic/mvnw.cmd
+SPDXID: SPDXRef-10
+FileChecksum: SHA1: 321fc1a2dbf532e278e28e8c399b5f139ff46175
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./spring-petclinic/pom.xml
+SPDXID: SPDXRef-11
+FileChecksum: SHA1: a7ead00a3812ac7198d75d432310fcc23c7f696a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./spring-petclinic/README.md
+SPDXID: SPDXRef-12
+FileChecksum: SHA1: 8ed848d2eff06ee6f4ae9d0d9f0b8051cc1c819b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./spring-petclinic/settings.gradle
+SPDXID: SPDXRef-14
+FileChecksum: SHA1: eea0d1a97f08c59e2040139211fdb6a802e37597
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./spring-petclinic/.devcontainer/devcontainer.json
+SPDXID: SPDXRef-16
+FileChecksum: SHA1: 7aa69c7428716b482da79d877128f664b3708b85
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./spring-petclinic/.devcontainer/Dockerfile
+SPDXID: SPDXRef-17
+FileChecksum: SHA1: 631d3ddedc561809b8266663781d722ac25ad40b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./spring-petclinic/.github/dco.yml
+SPDXID: SPDXRef-19
+FileChecksum: SHA1: 4fe72c3fc50578d4a28b81ebe33278227897feb1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./spring-petclinic/.github/workflows/deploy-and-test-cluster.yml
+SPDXID: SPDXRef-21
+FileChecksum: SHA1: 6f21422c961946a313e7e1dceac4bf1ae807af02
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./spring-petclinic/.github/workflows/gradle-build.yml
+SPDXID: SPDXRef-22
+FileChecksum: SHA1: 563e506a3cda1947e1073f04c43c2e8150ed4a10
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./spring-petclinic/.github/workflows/maven-build.yml
+SPDXID: SPDXRef-23
+FileChecksum: SHA1: aeee0142e6f7f7938261491ba8866e32632db0d8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./spring-petclinic/.mvn/wrapper/maven-wrapper.properties
+SPDXID: SPDXRef-26
+FileChecksum: SHA1: 10c67c0832b3b7fafe7c7db61ebf367b3d68c1cb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./spring-petclinic/gradle/wrapper/gradle-wrapper.jar
+SPDXID: SPDXRef-29
+FileChecksum: SHA1: abf08035a417f807e3d91c559b793ad20f5638ab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./spring-petclinic/gradle/wrapper/gradle-wrapper.properties
+SPDXID: SPDXRef-30
+FileChecksum: SHA1: 2439983ae1aac6c402de593d9f1dc3f4e93a3579
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./spring-petclinic/k8s/db.yml
+SPDXID: SPDXRef-32
+FileChecksum: SHA1: 0e8a549172d7e8aa76518c0bb5c28bbad9887c94
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./spring-petclinic/k8s/petclinic.yml
+SPDXID: SPDXRef-33
+FileChecksum: SHA1: e3d6e99dcf1b21f38d183b812379fd36978702e5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./spring-petclinic/src/checkstyle/nohttp-checkstyle-suppressions.xml
+SPDXID: SPDXRef-36
+FileChecksum: SHA1: bc469a4b4b5e362557bc2f94d3e7857990820038
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./spring-petclinic/src/checkstyle/nohttp-checkstyle.xml
+SPDXID: SPDXRef-37
+FileChecksum: SHA1: dc7fc8cb81968f4e43b82354035953fa0081b985
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./spring-petclinic/src/main/java/org/springframework/samples/petclinic/PetClinicApplication.java
+SPDXID: SPDXRef-44
+FileChecksum: SHA1: 10f0f9a4ea54e00ec34fc7c31a66f01cffe58fd3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text>Copyright 2012-2019 the original author or authors
+</text>
+
+## File Information
+FileName: ./spring-petclinic/src/main/java/org/springframework/samples/petclinic/PetClinicRuntimeHints.java
+SPDXID: SPDXRef-45
+FileChecksum: SHA1: a22c40ac52da12edaa0e2ac59438a75439cf4630
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text>Copyright 2012-2019 the original author or authors
+</text>
+
+## File Information
+FileName: ./spring-petclinic/src/main/java/org/springframework/samples/petclinic/model/BaseEntity.java
+SPDXID: SPDXRef-47
+FileChecksum: SHA1: 91129626fe57acde2d842c52c898711d250e0b65
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text>Copyright 2012-2019 the original author or authors
+</text>
+
+## File Information
+FileName: ./spring-petclinic/src/main/java/org/springframework/samples/petclinic/model/NamedEntity.java
+SPDXID: SPDXRef-48
+FileChecksum: SHA1: 42ce04361fe96ddd09d842db95c331068f2a5a8e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text>Copyright 2012-2019 the original author or authors
+</text>
+
+## File Information
+FileName: ./spring-petclinic/src/main/java/org/springframework/samples/petclinic/model/package-info.java
+SPDXID: SPDXRef-49
+FileChecksum: SHA1: 60eae53f46a06630f78cb927bbd47738d95c4bec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text>Copyright 2012-2019 the original author or authors
+</text>
+
+## File Information
+FileName: ./spring-petclinic/src/main/java/org/springframework/samples/petclinic/model/Person.java
+SPDXID: SPDXRef-50
+FileChecksum: SHA1: 2f3e53a2e59906d25b33ab6de0aabef19de375d1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text>Copyright 2012-2019 the original author or authors
+</text>
+
+## File Information
+FileName: ./spring-petclinic/src/main/java/org/springframework/samples/petclinic/owner/Owner.java
+SPDXID: SPDXRef-52
+FileChecksum: SHA1: 6229579509baed80f1f2563273e662c7a0d7b6ec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text>Copyright 2012-2019 the original author or authors
+</text>
+
+## File Information
+FileName: ./spring-petclinic/src/main/java/org/springframework/samples/petclinic/owner/OwnerController.java
+SPDXID: SPDXRef-53
+FileChecksum: SHA1: f68e7a7923f9a143d27e734e5f4b099ec6d0440f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text>Copyright 2012-2019 the original author or authors
+</text>
+
+## File Information
+FileName: ./spring-petclinic/src/main/java/org/springframework/samples/petclinic/owner/OwnerRepository.java
+SPDXID: SPDXRef-54
+FileChecksum: SHA1: ed78f971c91d79d6d9eac826a580a72beafd41d5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text>Copyright 2012-2019 the original author or authors
+</text>
+
+## File Information
+FileName: ./spring-petclinic/src/main/java/org/springframework/samples/petclinic/owner/Pet.java
+SPDXID: SPDXRef-55
+FileChecksum: SHA1: 5eac0fb1c25bd0fa2d2a3000dd2fd81908717c7c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text>Copyright 2012-2019 the original author or authors
+</text>
+
+## File Information
+FileName: ./spring-petclinic/src/main/java/org/springframework/samples/petclinic/owner/PetController.java
+SPDXID: SPDXRef-56
+FileChecksum: SHA1: 34e888c0b2e94b34219254c93060aae41169085f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text>Copyright 2012-2019 the original author or authors
+</text>
+
+## File Information
+FileName: ./spring-petclinic/src/main/java/org/springframework/samples/petclinic/owner/PetType.java
+SPDXID: SPDXRef-57
+FileChecksum: SHA1: d00e0aea02bb5b8194cadba0420a23a1200cb24c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text>Copyright 2012-2019 the original author or authors
+</text>
+
+## File Information
+FileName: ./spring-petclinic/src/main/java/org/springframework/samples/petclinic/owner/PetTypeFormatter.java
+SPDXID: SPDXRef-58
+FileChecksum: SHA1: 7dbe9d3bb667cc1bbcc2ccd13b504137afb099ee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text>Copyright 2012-2019 the original author or authors
+</text>
+
+## File Information
+FileName: ./spring-petclinic/src/main/java/org/springframework/samples/petclinic/owner/PetValidator.java
+SPDXID: SPDXRef-59
+FileChecksum: SHA1: fef5ec896529a6b6b5df3041f6d9d2cd08154ee4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text>Copyright 2012-2019 the original author or authors
+</text>
+
+## File Information
+FileName: ./spring-petclinic/src/main/java/org/springframework/samples/petclinic/owner/Visit.java
+SPDXID: SPDXRef-60
+FileChecksum: SHA1: cd0d574479e6301e35811ffcd4f3713b6b00c684
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text>Copyright 2012-2019 the original author or authors
+</text>
+
+## File Information
+FileName: ./spring-petclinic/src/main/java/org/springframework/samples/petclinic/owner/VisitController.java
+SPDXID: SPDXRef-61
+FileChecksum: SHA1: b66c55d2575948094586e4bb6f6d666ca522f0c4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text>Copyright 2012-2019 the original author or authors
+</text>
+
+## File Information
+FileName: ./spring-petclinic/src/main/java/org/springframework/samples/petclinic/system/CacheConfiguration.java
+SPDXID: SPDXRef-63
+FileChecksum: SHA1: b06fd3c08354647a286ae642648dfb3e72f5847c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text>Copyright 2012-2019 the original author or authors
+</text>
+
+## File Information
+FileName: ./spring-petclinic/src/main/java/org/springframework/samples/petclinic/system/CrashController.java
+SPDXID: SPDXRef-64
+FileChecksum: SHA1: 5492d6d7f4d66f9065cf21acf1fb60c75b770801
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text>Copyright 2012-2019 the original author or authors
+</text>
+
+## File Information
+FileName: ./spring-petclinic/src/main/java/org/springframework/samples/petclinic/system/WelcomeController.java
+SPDXID: SPDXRef-65
+FileChecksum: SHA1: 7e0278995b518675eacfd215e76a5ba2ef79ad36
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text>Copyright 2012-2019 the original author or authors
+</text>
+
+## File Information
+FileName: ./spring-petclinic/src/main/java/org/springframework/samples/petclinic/vet/Specialty.java
+SPDXID: SPDXRef-67
+FileChecksum: SHA1: d4741feb4638deb2dbb321f2fce8f2fc2a4ef7e9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text>Copyright 2012-2019 the original author or authors
+</text>
+
+## File Information
+FileName: ./spring-petclinic/src/main/java/org/springframework/samples/petclinic/vet/Vet.java
+SPDXID: SPDXRef-68
+FileChecksum: SHA1: e4f94feb2e9701de6cf865cf7c422439f70916cc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text>Copyright 2012-2019 the original author or authors
+</text>
+
+## File Information
+FileName: ./spring-petclinic/src/main/java/org/springframework/samples/petclinic/vet/VetController.java
+SPDXID: SPDXRef-69
+FileChecksum: SHA1: 2137f08a97c3c1fbe1828e201b667c7c6843ca40
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text>Copyright 2012-2019 the original author or authors
+</text>
+
+## File Information
+FileName: ./spring-petclinic/src/main/java/org/springframework/samples/petclinic/vet/VetRepository.java
+SPDXID: SPDXRef-70
+FileChecksum: SHA1: ba8068ae2ac3efa4732d00865ae88b10ed922c52
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text>Copyright 2012-2019 the original author or authors
+</text>
+
+## File Information
+FileName: ./spring-petclinic/src/main/java/org/springframework/samples/petclinic/vet/Vets.java
+SPDXID: SPDXRef-71
+FileChecksum: SHA1: c55a455d46fe4dfa7decf27838396ccb6504857a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text>Copyright 2012-2019 the original author or authors
+</text>
+
+## File Information
+FileName: ./spring-petclinic/src/main/resources/application-mysql.properties
+SPDXID: SPDXRef-73
+FileChecksum: SHA1: 07e071dc61c3856a8226a2900cd62325d8b11414
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./spring-petclinic/src/main/resources/application-postgres.properties
+SPDXID: SPDXRef-74
+FileChecksum: SHA1: c41de0a356ba820d5c5d660321622da8741a9315
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./spring-petclinic/src/main/resources/application.properties
+SPDXID: SPDXRef-75
+FileChecksum: SHA1: c64afe585c08aa037d5d2243ba16daad6a6dd58e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./spring-petclinic/src/main/resources/banner.txt
+SPDXID: SPDXRef-76
+FileChecksum: SHA1: 38c297a91063280f5daa49cd4a4b7a2667ddcea8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./spring-petclinic/src/main/resources/db/h2/data.sql
+SPDXID: SPDXRef-79
+FileChecksum: SHA1: bf7b425c21308083f1b4a6be0f5851cd88a5a22a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./spring-petclinic/src/main/resources/db/h2/schema.sql
+SPDXID: SPDXRef-80
+FileChecksum: SHA1: 7d7c32a507f132e304e3b86300e762366438211c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./spring-petclinic/src/main/resources/db/hsqldb/data.sql
+SPDXID: SPDXRef-82
+FileChecksum: SHA1: 3ea014d89a3e90dfdcbc6a0c9f81541745975b92
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./spring-petclinic/src/main/resources/db/hsqldb/schema.sql
+SPDXID: SPDXRef-83
+FileChecksum: SHA1: f1ae1806eefb702b15623a2b287d64c9d3dbdf93
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./spring-petclinic/src/main/resources/db/mysql/data.sql
+SPDXID: SPDXRef-85
+FileChecksum: SHA1: a7bfee8a0f475b5703b8a9105bf20a395fe1be4c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./spring-petclinic/src/main/resources/db/mysql/petclinic_db_setup_mysql.txt
+SPDXID: SPDXRef-86
+FileChecksum: SHA1: fdfc5aaabe3692ada2dcde21e3cad4b087dc4a7f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./spring-petclinic/src/main/resources/db/mysql/schema.sql
+SPDXID: SPDXRef-87
+FileChecksum: SHA1: da0a4b7904e97a2d2e975a6c4fcbe260bd5af096
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./spring-petclinic/src/main/resources/db/mysql/user.sql
+SPDXID: SPDXRef-88
+FileChecksum: SHA1: d13fd4ad650c0ea475ee48e6d87e9e45e48e8087
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./spring-petclinic/src/main/resources/db/postgres/data.sql
+SPDXID: SPDXRef-90
+FileChecksum: SHA1: ef7666ed183bffed3d96c03b16496e34f4f8584a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./spring-petclinic/src/main/resources/db/postgres/petclinic_db_setup_postgres.txt
+SPDXID: SPDXRef-91
+FileChecksum: SHA1: 0c880c93f67aeaa38c90ea52bbf51b953b3622eb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./spring-petclinic/src/main/resources/db/postgres/schema.sql
+SPDXID: SPDXRef-92
+FileChecksum: SHA1: 491db5a35ec8567b4aad1637f991b19a3b2d990a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./spring-petclinic/src/main/resources/messages/messages.properties
+SPDXID: SPDXRef-94
+FileChecksum: SHA1: fd77b6ccdbf094e91eaecf47da8b1ecd58212964
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./spring-petclinic/src/main/resources/messages/messages_de.properties
+SPDXID: SPDXRef-95
+FileChecksum: SHA1: 706109391907406a7833f07a4c3dcc43d09bdbba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./spring-petclinic/src/main/resources/messages/messages_en.properties
+SPDXID: SPDXRef-96
+FileChecksum: SHA1: 5afefc8df417bab84ef9842d81344226b4ee3138
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./spring-petclinic/src/main/resources/messages/messages_es.properties
+SPDXID: SPDXRef-97
+FileChecksum: SHA1: fee8b02e216c6190dc7012d0ce82cb620747dd58
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./spring-petclinic/src/main/resources/messages/messages_fa.properties
+SPDXID: SPDXRef-98
+FileChecksum: SHA1: f1ff7c88324d70131f73d4da20bb075654c39c5b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./spring-petclinic/src/main/resources/messages/messages_ko.properties
+SPDXID: SPDXRef-99
+FileChecksum: SHA1: 00d776018e4fb84b12647877e01c5758318cb413
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./spring-petclinic/src/main/resources/messages/messages_pt.properties
+SPDXID: SPDXRef-100
+FileChecksum: SHA1: 66efc9e29eab048831d8bf2e1f6bc04d7c0a2375
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./spring-petclinic/src/main/resources/messages/messages_ru.properties
+SPDXID: SPDXRef-101
+FileChecksum: SHA1: d1fedbe63ca188553ab804418f25fedf8e9885a1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./spring-petclinic/src/main/resources/messages/messages_tr.properties
+SPDXID: SPDXRef-102
+FileChecksum: SHA1: 4ce180f8301def16c3aa82bbafaa04c910c9c4aa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./spring-petclinic/src/main/resources/static/resources/css/petclinic.css
+SPDXID: SPDXRef-106
+FileChecksum: SHA1: 6bd1ca3b85028b06435419ad3dc30c97f14e1909
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: MIT
+FileCopyrightText: <text>Copyright 2016 the original author or authors
+Copyright 2011-2024 The Bootstrap Authors
+</text>
+
+## File Information
+FileName: ./spring-petclinic/src/main/resources/static/resources/fonts/montserrat-webfont.eot
+SPDXID: SPDXRef-108
+FileChecksum: SHA1: 8ea176709ce29dd344f8aa7f74d743f31f2d517c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./spring-petclinic/src/main/resources/static/resources/fonts/montserrat-webfont.svg
+SPDXID: SPDXRef-109
+FileChecksum: SHA1: c5de4e26effde115d02c4fdcef252a23a9f8c6c1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./spring-petclinic/src/main/resources/static/resources/fonts/montserrat-webfont.ttf
+SPDXID: SPDXRef-110
+FileChecksum: SHA1: 65009ccf906002aae23a4eb8361e3b746d2ce083
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: OFL-1.1
+FileCopyrightText: <text>Copyright (c) 2011-2012, Julieta Ulanovsky (julieta.ulanovsky@gmail.com)
+</text>
+
+## File Information
+FileName: ./spring-petclinic/src/main/resources/static/resources/fonts/montserrat-webfont.woff
+SPDXID: SPDXRef-111
+FileChecksum: SHA1: f33422a343c6cd4ecb877948c1ccb8251ad3b5bf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./spring-petclinic/src/main/resources/static/resources/fonts/varela_round-webfont.eot
+SPDXID: SPDXRef-112
+FileChecksum: SHA1: 7bd8f95b19e11144fd80159f4a6a4375d1a7bd34
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./spring-petclinic/src/main/resources/static/resources/fonts/varela_round-webfont.svg
+SPDXID: SPDXRef-113
+FileChecksum: SHA1: c76e549fb61ce43f1b2d73a90e7f136d69e01e05
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./spring-petclinic/src/main/resources/static/resources/fonts/varela_round-webfont.ttf
+SPDXID: SPDXRef-114
+FileChecksum: SHA1: e0dbddb6c7d838c78a624bf6f23ce1686a8db200
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: OFL-1.1
+FileCopyrightText: <text>Copyright (c) 2011, Joe Prince, Admix Designs (http://www.admixdesigns.com/)
+(c) 2011, Joe Prince, Admix Designs (http://www.admixdesigns.com/)
+</text>
+
+## File Information
+FileName: ./spring-petclinic/src/main/resources/static/resources/fonts/varela_round-webfont.woff
+SPDXID: SPDXRef-115
+FileChecksum: SHA1: e23fd4b612e044a17f0189a8fe7ab3ec08540957
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./spring-petclinic/src/main/resources/static/resources/images/favicon.png
+SPDXID: SPDXRef-117
+FileChecksum: SHA1: b4223867690057c69f84d1857d77e9aafb2e06ac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./spring-petclinic/src/main/resources/static/resources/images/pets.png
+SPDXID: SPDXRef-118
+FileChecksum: SHA1: 79e3c401efd046ebac2173f88250337d311b217b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./spring-petclinic/src/main/resources/static/resources/images/spring-logo-dataflow-mobile.png
+SPDXID: SPDXRef-119
+FileChecksum: SHA1: 01dfeb9fefbd653d5c5fba070c1eda9a2448e87c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./spring-petclinic/src/main/resources/static/resources/images/spring-logo-dataflow.png
+SPDXID: SPDXRef-120
+FileChecksum: SHA1: 803e497d84020737d93d329ca9e8fc73c56ca91a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./spring-petclinic/src/main/resources/static/resources/images/spring-logo.svg
+SPDXID: SPDXRef-121
+FileChecksum: SHA1: 2e2b3ea9379021cfee153e599c5e1741a11c6b20
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./spring-petclinic/src/main/resources/templates/error.html
+SPDXID: SPDXRef-123
+FileChecksum: SHA1: 319234915903914244b85219b7a2b774a4a1c3fb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./spring-petclinic/src/main/resources/templates/welcome.html
+SPDXID: SPDXRef-124
+FileChecksum: SHA1: 43d84160bef07df835beb8234f1226217836d37d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./spring-petclinic/src/main/resources/templates/fragments/inputField.html
+SPDXID: SPDXRef-126
+FileChecksum: SHA1: 25523350aff5b2a5a29cbcfb89c2619481f255fe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./spring-petclinic/src/main/resources/templates/fragments/layout.html
+SPDXID: SPDXRef-127
+FileChecksum: SHA1: 19ba17c933b418cc1d0bcf3cbbfdf5bb9a407978
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./spring-petclinic/src/main/resources/templates/fragments/selectField.html
+SPDXID: SPDXRef-128
+FileChecksum: SHA1: cada023ad963fb8a8dc8fd14cb65415d5171fb0b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./spring-petclinic/src/main/resources/templates/owners/createOrUpdateOwnerForm.html
+SPDXID: SPDXRef-130
+FileChecksum: SHA1: 5a9208627c6f7cbff1084700a1123f5fd3d6ebf2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./spring-petclinic/src/main/resources/templates/owners/findOwners.html
+SPDXID: SPDXRef-131
+FileChecksum: SHA1: 0207e094e155e60fa49411e958ce3e61a417513e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./spring-petclinic/src/main/resources/templates/owners/ownerDetails.html
+SPDXID: SPDXRef-132
+FileChecksum: SHA1: 8fe604d19d5ee83c2cb6a487c2a7020466ae2093
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./spring-petclinic/src/main/resources/templates/owners/ownersList.html
+SPDXID: SPDXRef-133
+FileChecksum: SHA1: 85bc21ade4c0ff2b217e4fa3c88b278b74ba1ac6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./spring-petclinic/src/main/resources/templates/pets/createOrUpdatePetForm.html
+SPDXID: SPDXRef-135
+FileChecksum: SHA1: b44a723f2c3d7709885b1f3918fc896495d770b9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./spring-petclinic/src/main/resources/templates/pets/createOrUpdateVisitForm.html
+SPDXID: SPDXRef-136
+FileChecksum: SHA1: ad56c0314b5359e4aef2e21466eb6c9624f6b8a8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./spring-petclinic/src/main/resources/templates/vets/vetList.html
+SPDXID: SPDXRef-138
+FileChecksum: SHA1: 7ba39596a555ae20b234c1397e2cec95789d0cf3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./spring-petclinic/src/main/scss/header.scss
+SPDXID: SPDXRef-140
+FileChecksum: SHA1: 2ad8cd576f7b08bb10fe01fb981411686c57007b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./spring-petclinic/src/main/scss/petclinic.scss
+SPDXID: SPDXRef-141
+FileChecksum: SHA1: c26415da149cff75a38c05696fce7126c51c82af
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text>Copyright 2016 the original author or authors
+</text>
+
+## File Information
+FileName: ./spring-petclinic/src/main/scss/responsive.scss
+SPDXID: SPDXRef-142
+FileChecksum: SHA1: 6f11389be6e13f049d760751b04b68e60a46e6a5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./spring-petclinic/src/main/scss/typography.scss
+SPDXID: SPDXRef-143
+FileChecksum: SHA1: 06df9d7b808e4e454cb62f9ed0379a5f62219091
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./spring-petclinic/src/test/java/org/springframework/samples/petclinic/MySqlIntegrationTests.java
+SPDXID: SPDXRef-150
+FileChecksum: SHA1: e2c09346a86c94d6bb64c2f3343be8ba121daa4a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text>Copyright 2012-2019 the original author or authors
+</text>
+
+## File Information
+FileName: ./spring-petclinic/src/test/java/org/springframework/samples/petclinic/MysqlTestApplication.java
+SPDXID: SPDXRef-151
+FileChecksum: SHA1: d827592331b4ae3ffac2fdb0b016fee54ad8e7d7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text>Copyright 2012-2019 the original author or authors
+</text>
+
+## File Information
+FileName: ./spring-petclinic/src/test/java/org/springframework/samples/petclinic/PetClinicIntegrationTests.java
+SPDXID: SPDXRef-152
+FileChecksum: SHA1: a1eab6d9f6b62fe403f9bbb1bceddd44a9e6bb08
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text>Copyright 2012-2019 the original author or authors
+</text>
+
+## File Information
+FileName: ./spring-petclinic/src/test/java/org/springframework/samples/petclinic/PostgresIntegrationTests.java
+SPDXID: SPDXRef-153
+FileChecksum: SHA1: 0bfad7a4fc725325d9a826d853c86983f75d1361
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text>Copyright 2012-2019 the original author or authors
+</text>
+
+## File Information
+FileName: ./spring-petclinic/src/test/java/org/springframework/samples/petclinic/model/ValidatorTests.java
+SPDXID: SPDXRef-155
+FileChecksum: SHA1: 5d4ecf111490e15cb65438c327aa1fbd2b68d9bd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text>Copyright 2012-2019 the original author or authors
+</text>
+
+## File Information
+FileName: ./spring-petclinic/src/test/java/org/springframework/samples/petclinic/owner/OwnerControllerTests.java
+SPDXID: SPDXRef-157
+FileChecksum: SHA1: 3c30a29c59b6e8d496217d8f31781de3d428e356
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text>Copyright 2012-2019 the original author or authors
+</text>
+
+## File Information
+FileName: ./spring-petclinic/src/test/java/org/springframework/samples/petclinic/owner/PetControllerTests.java
+SPDXID: SPDXRef-158
+FileChecksum: SHA1: 964734e6de100fa4d1515974bfcc367c69544ab3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text>Copyright 2012-2019 the original author or authors
+</text>
+
+## File Information
+FileName: ./spring-petclinic/src/test/java/org/springframework/samples/petclinic/owner/PetTypeFormatterTests.java
+SPDXID: SPDXRef-159
+FileChecksum: SHA1: dfbcecdd5c083e701d64dd2f807838edf46440c3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text>Copyright 2012-2019 the original author or authors
+</text>
+
+## File Information
+FileName: ./spring-petclinic/src/test/java/org/springframework/samples/petclinic/owner/PetValidatorTests.java
+SPDXID: SPDXRef-160
+FileChecksum: SHA1: 6c009c1e09986d4aa5ee150d2a9ed36a89daaaea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text>Copyright 2012-2024 the original author or authors
+</text>
+
+## File Information
+FileName: ./spring-petclinic/src/test/java/org/springframework/samples/petclinic/owner/VisitControllerTests.java
+SPDXID: SPDXRef-161
+FileChecksum: SHA1: 79b60f9d8c7a2f1c165257b917ea22d3055c414e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text>Copyright 2012-2019 the original author or authors
+</text>
+
+## File Information
+FileName: ./spring-petclinic/src/test/java/org/springframework/samples/petclinic/service/ClinicServiceTests.java
+SPDXID: SPDXRef-163
+FileChecksum: SHA1: a24f72f4eb87b09e58936c3903a30e54eca8865a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text>Copyright 2012-2019 the original author or authors
+</text>
+
+## File Information
+FileName: ./spring-petclinic/src/test/java/org/springframework/samples/petclinic/service/EntityUtils.java
+SPDXID: SPDXRef-164
+FileChecksum: SHA1: 0edef8421cc97d07b9fe43e69b880e0ab54e154f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text>Copyright 2012-2019 the original author or authors
+</text>
+
+## File Information
+FileName: ./spring-petclinic/src/test/java/org/springframework/samples/petclinic/system/CrashControllerIntegrationTests.java
+SPDXID: SPDXRef-166
+FileChecksum: SHA1: 6f901a927603c2ca5543e3ea929f9cb02c31e552
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text>Copyright 2012-2019 the original author or authors
+</text>
+
+## File Information
+FileName: ./spring-petclinic/src/test/java/org/springframework/samples/petclinic/system/CrashControllerTests.java
+SPDXID: SPDXRef-167
+FileChecksum: SHA1: aa7fa7ccc33cffe0a60720f21c19955cf95da962
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text>Copyright 2012-2019 the original author or authors
+</text>
+
+## File Information
+FileName: ./spring-petclinic/src/test/java/org/springframework/samples/petclinic/vet/VetControllerTests.java
+SPDXID: SPDXRef-169
+FileChecksum: SHA1: 76ec8d2112fdc063c6c33635b41689f937dab58f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text>Copyright 2012-2019 the original author or authors
+</text>
+
+## File Information
+FileName: ./spring-petclinic/src/test/java/org/springframework/samples/petclinic/vet/VetTests.java
+SPDXID: SPDXRef-170
+FileChecksum: SHA1: 60049787877b57c48154b84130d22d002eacb0fc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: <text>Copyright 2012-2019 the original author or authors
+</text>
+
+## File Information
+FileName: ./spring-petclinic/src/test/jmeter/petclinic_test_plan.jmx
+SPDXID: SPDXRef-172
+FileChecksum: SHA1: 2d767702517a55b87a928c5aaaf20613b95ac659
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./spring-petclinic/target/bom.json
+SPDXID: SPDXRef-174
+FileChecksum: SHA1: 76e92166179f4e9d21f99628c2095186054e11bb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LGPL-2.1-only
+LicenseInfoInFile: EPL-1.0
+LicenseInfoInFile: MIT
+LicenseInfoInFile: EPL-2.0
+LicenseInfoInFile: Classpath-exception-2.0
+LicenseInfoInFile: CC0-1.0
+LicenseInfoInFile: BSD-2-Clause
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: MPL-2.0
+LicenseInfoInFile: LicenseRef-scancode-free-unknown
+LicenseInfoInFile: GPL-2.0-only
+LicenseInfoInFile: Universal-FOSS-exception-1.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./spring-petclinic/target/bom.pb
+SPDXID: SPDXRef-175
+FileChecksum: SHA1: d39f2d8ec1425a151dbb0664183bca61f14e2c3d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LGPL-2.0-or-later
+LicenseInfoInFile: LGPL-2.1-only
+LicenseInfoInFile: MIT
+LicenseInfoInFile: Classpath-exception-2.0
+LicenseInfoInFile: BSD-2-Clause
+LicenseInfoInFile: CC0-1.0
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: EPL-2.0
+LicenseInfoInFile: EPL-1.0
+LicenseInfoInFile: LicenseRef-scancode-free-unknown
+LicenseInfoInFile: GPL-2.0-only
+LicenseInfoInFile: Universal-FOSS-exception-1.0
+FileCopyrightText: NONE
+
+## File Information
+FileName: ./spring-petclinic/target/bom.xml
+SPDXID: SPDXRef-176
+FileChecksum: SHA1: b558f812936c46af81d84dd5b40f278a6f0b4888
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: LGPL-2.1-or-later
+LicenseInfoInFile: LGPL-2.1-only
+LicenseInfoInFile: EPL-1.0
+LicenseInfoInFile: LGPL-3.0-or-later
+LicenseInfoInFile: MIT
+LicenseInfoInFile: EPL-2.0
+LicenseInfoInFile: Classpath-exception-2.0
+LicenseInfoInFile: CC0-1.0
+LicenseInfoInFile: BSD-2-Clause
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: MPL-2.0
+LicenseInfoInFile: LicenseRef-scancode-free-unknown
+LicenseInfoInFile: LicenseRef-scancode-unknown-license-reference
+LicenseInfoInFile: GPL-2.0-only
+LicenseInfoInFile: Universal-FOSS-exception-1.0
+FileCopyrightText: NONE
+
+## License Information
+LicenseID: LicenseRef-scancode-free-unknown
+ExtractedText: <text>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/free-unknown.LICENSE
+</text>
+LicenseName: Free unknown
+LicenseComment: <text>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/free-unknown.LICENSE
+</text>
+
+LicenseID: LicenseRef-scancode-free-unknown
+ExtractedText: <text>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/free-unknown.LICENSE
+</text>
+LicenseName: Free unknown
+LicenseComment: <text>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/free-unknown.LICENSE
+</text>
+
+LicenseID: LicenseRef-scancode-free-unknown
+ExtractedText: <text>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/free-unknown.LICENSE
+</text>
+LicenseName: Free unknown
+LicenseComment: <text>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/free-unknown.LICENSE
+</text>
+
+LicenseID: LicenseRef-scancode-unknown-license-reference
+ExtractedText: <text>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-license-reference.LICENSE
+</text>
+LicenseName: Unknown License reference
+LicenseComment: <text>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-license-reference.LICENSE
+</text>
+
+LicenseID: LicenseRef-scancode-unknown-license-reference
+ExtractedText: <text>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-license-reference.LICENSE
+</text>
+LicenseName: Unknown License reference
+LicenseComment: <text>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-license-reference.LICENSE
+</text>
+
+

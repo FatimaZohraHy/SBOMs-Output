@@ -1,0 +1,2511 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+  xmlns:spdx="http://spdx.org/rdf/terms#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <spdx:Package rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-001">
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="N58dbaa432f384e2da906370aca5687a5">
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-32">
+            <spdx:fileName>./spring-petclinic/k8s/db.yml</spdx:fileName>
+            <spdx:copyrightText>NONE</spdx:copyrightText>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="N2fa5ef5979a94b478069bd785d7ce319">
+                <spdx:checksumValue>0e8a549172d7e8aa76518c0bb5c28bbad9887c94</spdx:checksumValue>
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="N9b203e5bc8f9481fbb7fb9e560600ca2">
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-140">
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:fileName>./spring-petclinic/src/main/scss/header.scss</spdx:fileName>
+            <spdx:copyrightText>NONE</spdx:copyrightText>
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="Nea29cee27bfc4d9e9f40226c1ea6dbf0">
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                <spdx:checksumValue>2ad8cd576f7b08bb10fe01fb981411686c57007b</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="N1838de205d5849b5872f166fa9173f60">
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-63">
+            <spdx:fileName>./spring-petclinic/src/main/java/org/springframework/samples/petclinic/system/CacheConfiguration.java</spdx:fileName>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/Apache-2.0"/>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:copyrightText>Copyright 2012-2019 the original author or authors
+</spdx:copyrightText>
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="N1b036d1ed724493a9f15592509330dcd">
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                <spdx:checksumValue>b06fd3c08354647a286ae642648dfb3e72f5847c</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="N969ecea87d474a348ad912f2b39a9067">
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-126">
+            <spdx:fileName>./spring-petclinic/src/main/resources/templates/fragments/inputField.html</spdx:fileName>
+            <spdx:copyrightText>NONE</spdx:copyrightText>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="N4d98212fb13e4f988bee26fc3ad3d612">
+                <spdx:checksumValue>25523350aff5b2a5a29cbcfb89c2619481f255fe</spdx:checksumValue>
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="N3075f89a29d341579ec26d27e83d530e">
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-79">
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="N6b3fbcea1100494ca189f53d07442079">
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                <spdx:checksumValue>bf7b425c21308083f1b4a6be0f5851cd88a5a22a</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+            <spdx:copyrightText>NONE</spdx:copyrightText>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:fileName>./spring-petclinic/src/main/resources/db/h2/data.sql</spdx:fileName>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="Nf257e45bc2f84a15bcfac9e186d47177">
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-152">
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/Apache-2.0"/>
+            <spdx:copyrightText>Copyright 2012-2019 the original author or authors
+</spdx:copyrightText>
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="N3e6415fd7823472ca711a18acb68e490">
+                <spdx:checksumValue>a1eab6d9f6b62fe403f9bbb1bceddd44a9e6bb08</spdx:checksumValue>
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:fileName>./spring-petclinic/src/test/java/org/springframework/samples/petclinic/PetClinicIntegrationTests.java</spdx:fileName>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="Nbeb673f926e44444856f15155a270335">
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-172">
+            <spdx:copyrightText>NONE</spdx:copyrightText>
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="Nc6f5cec539e74879b3238a306d61fb8c">
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                <spdx:checksumValue>2d767702517a55b87a928c5aaaf20613b95ac659</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+            <spdx:fileName>./spring-petclinic/src/test/jmeter/petclinic_test_plan.jmx</spdx:fileName>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="N7ed4e7698e1845aa8a0b66bd50d59447">
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-56">
+            <spdx:copyrightText>Copyright 2012-2019 the original author or authors
+</spdx:copyrightText>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:fileName>./spring-petclinic/src/main/java/org/springframework/samples/petclinic/owner/PetController.java</spdx:fileName>
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="Nc8ff7fd9097545ecba229ef8e4abb28e">
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                <spdx:checksumValue>34e888c0b2e94b34219254c93060aae41169085f</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/Apache-2.0"/>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="Nc2fd133aabe54601b7b22cf2b16ad6e7">
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-113">
+            <spdx:copyrightText>NONE</spdx:copyrightText>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+            <spdx:fileName>./spring-petclinic/src/main/resources/static/resources/fonts/varela_round-webfont.svg</spdx:fileName>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="Nb56e810ee402441e8a68cfff767800d9">
+                <spdx:checksumValue>c76e549fb61ce43f1b2d73a90e7f136d69e01e05</spdx:checksumValue>
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+              </spdx:Checksum>
+            </spdx:checksum>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="N4c74195b7537464c8d7fc040bf3e53b6">
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-2">
+            <spdx:fileName>./spring-petclinic/.editorconfig</spdx:fileName>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="N79cb638e3f1049a1ba1abbc07c1da29c">
+                <spdx:checksumValue>a24a52832c325cd3378711977b0b40ef3d4929a3</spdx:checksumValue>
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:copyrightText>NONE</spdx:copyrightText>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="N30ba814d0d4c4d4a8fc09f5ecd5ecdfe">
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-37">
+            <spdx:fileName>./spring-petclinic/src/checkstyle/nohttp-checkstyle.xml</spdx:fileName>
+            <spdx:copyrightText>NONE</spdx:copyrightText>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="N11893fcf02db417980fa5f8a318ff4b6">
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                <spdx:checksumValue>dc7fc8cb81968f4e43b82354035953fa0081b985</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="N2258b7a2a1d84225900021935ee4026f">
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-82">
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="N1f0f3032d33c4de785ed1697ab283e6d">
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                <spdx:checksumValue>3ea014d89a3e90dfdcbc6a0c9f81541745975b92</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:fileName>./spring-petclinic/src/main/resources/db/hsqldb/data.sql</spdx:fileName>
+            <spdx:copyrightText>NONE</spdx:copyrightText>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="N60c6d59445194ac2ace20f395eeeaf38">
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-167">
+            <spdx:fileName>./spring-petclinic/src/test/java/org/springframework/samples/petclinic/system/CrashControllerTests.java</spdx:fileName>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/Apache-2.0"/>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="Ne85256cc00ab44e2b2407ca80f662f89">
+                <spdx:checksumValue>aa7fa7ccc33cffe0a60720f21c19955cf95da962</spdx:checksumValue>
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:copyrightText>Copyright 2012-2019 the original author or authors
+</spdx:copyrightText>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="N6303172021574659ba476547394fefd5">
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-136">
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+            <spdx:fileName>./spring-petclinic/src/main/resources/templates/pets/createOrUpdateVisitForm.html</spdx:fileName>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:copyrightText>NONE</spdx:copyrightText>
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="N2308c92a1c704c7fa8d0d1c9aa0600f8">
+                <spdx:checksumValue>ad56c0314b5359e4aef2e21466eb6c9624f6b8a8</spdx:checksumValue>
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+              </spdx:Checksum>
+            </spdx:checksum>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="Nb4f48b315d3740e08f7656e34f4e8d5e">
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-115">
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="N8d13f89b324a4478afe09ca472b29b0e">
+                <spdx:checksumValue>e23fd4b612e044a17f0189a8fe7ab3ec08540957</spdx:checksumValue>
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:copyrightText>NONE</spdx:copyrightText>
+            <spdx:fileName>./spring-petclinic/src/main/resources/static/resources/fonts/varela_round-webfont.woff</spdx:fileName>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="N5b50b5464e2b43b2bb01891dff656ca0">
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-80">
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="N5bb48816751d4d90bbcdff038288631f">
+                <spdx:checksumValue>7d7c32a507f132e304e3b86300e762366438211c</spdx:checksumValue>
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:copyrightText>NONE</spdx:copyrightText>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+            <spdx:fileName>./spring-petclinic/src/main/resources/db/h2/schema.sql</spdx:fileName>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="N6ca23e09dc064eff8e1ffd678d6d99ad">
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-101">
+            <spdx:fileName>./spring-petclinic/src/main/resources/messages/messages_ru.properties</spdx:fileName>
+            <spdx:copyrightText>NONE</spdx:copyrightText>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="Nb32c33e62f6d41b5af3f8d599c0de385">
+                <spdx:checksumValue>d1fedbe63ca188553ab804418f25fedf8e9885a1</spdx:checksumValue>
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+              </spdx:Checksum>
+            </spdx:checksum>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="Ne25dd1c0a8dc474e9c85208e0dc5dd20">
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-12">
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="N2e8e5bc941a84d9d888f3740f4e9db98">
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                <spdx:checksumValue>8ed848d2eff06ee6f4ae9d0d9f0b8051cc1c819b</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/Apache-2.0"/>
+            <spdx:fileName>./spring-petclinic/README.md</spdx:fileName>
+            <spdx:copyrightText>NONE</spdx:copyrightText>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="Ncfc23ed6bedb46398b90281c82278e9a">
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-141">
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:copyrightText>Copyright 2016 the original author or authors
+</spdx:copyrightText>
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="N2970997b70f44a709fd37203b9650ecb">
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                <spdx:checksumValue>c26415da149cff75a38c05696fce7126c51c82af</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/Apache-2.0"/>
+            <spdx:fileName>./spring-petclinic/src/main/scss/petclinic.scss</spdx:fileName>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="Ncc430178a95a4aeaa365dbfb5e312f74">
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-4">
+            <spdx:fileName>./spring-petclinic/build.gradle</spdx:fileName>
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="N8fa1c6f7a4f641249fdc67f9cd10894e">
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                <spdx:checksumValue>a96e57078dce1b9d14e96989d7d3fa6e761f7fee</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:copyrightText>NONE</spdx:copyrightText>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="N1512a105f43f4fd490ac66ee3f6fb701">
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-9">
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="N6c55a3f29d6649ec93fbc675c3186e08">
+                <spdx:checksumValue>1541123a666cd3a069d8326a1225cab06c7973c9</spdx:checksumValue>
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:copyrightText>NONE</spdx:copyrightText>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/Apache-2.0"/>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:fileName>./spring-petclinic/mvnw</spdx:fileName>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="Ne5047928aa564ea9a408126053a5093d">
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-121">
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:copyrightText>NONE</spdx:copyrightText>
+            <spdx:fileName>./spring-petclinic/src/main/resources/static/resources/images/spring-logo.svg</spdx:fileName>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="N5566474053bb49d7b53de415e57ded7e">
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                <spdx:checksumValue>2e2b3ea9379021cfee153e599c5e1741a11c6b20</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="N20791ad38e9d497ebd452595d968a3e6">
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-128">
+            <spdx:copyrightText>NONE</spdx:copyrightText>
+            <spdx:fileName>./spring-petclinic/src/main/resources/templates/fragments/selectField.html</spdx:fileName>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="Nd182f0da379c45b2ad332ae8a6205eeb">
+                <spdx:checksumValue>cada023ad963fb8a8dc8fd14cb65415d5171fb0b</spdx:checksumValue>
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="N50a9ce716ab448b798d0a56e2715e099">
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-68">
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/Apache-2.0"/>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:fileName>./spring-petclinic/src/main/java/org/springframework/samples/petclinic/vet/Vet.java</spdx:fileName>
+            <spdx:copyrightText>Copyright 2012-2019 the original author or authors
+</spdx:copyrightText>
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="N6f46ad785f284af0ad4eb588f4741124">
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                <spdx:checksumValue>e4f94feb2e9701de6cf865cf7c422439f70916cc</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="N018a3d3122f04fb28fc1c2551ff81c42">
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-158">
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="N1e5550287cb94fc685fde1e5c2ed19ef">
+                <spdx:checksumValue>964734e6de100fa4d1515974bfcc367c69544ab3</spdx:checksumValue>
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:fileName>./spring-petclinic/src/test/java/org/springframework/samples/petclinic/owner/PetControllerTests.java</spdx:fileName>
+            <spdx:copyrightText>Copyright 2012-2019 the original author or authors
+</spdx:copyrightText>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/Apache-2.0"/>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="N698e52bfe2954814af22566978f81fab">
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-64">
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="N40a11079e31349fc8d0058f3fd405680">
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                <spdx:checksumValue>5492d6d7f4d66f9065cf21acf1fb60c75b770801</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:fileName>./spring-petclinic/src/main/java/org/springframework/samples/petclinic/system/CrashController.java</spdx:fileName>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/Apache-2.0"/>
+            <spdx:copyrightText>Copyright 2012-2019 the original author or authors
+</spdx:copyrightText>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="N374d2551df6549aa9351878d65654891">
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-120">
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:fileName>./spring-petclinic/src/main/resources/static/resources/images/spring-logo-dataflow.png</spdx:fileName>
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="N76f1ab394cad45deb3f6804ca221b3fb">
+                <spdx:checksumValue>803e497d84020737d93d329ca9e8fc73c56ca91a</spdx:checksumValue>
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+            <spdx:copyrightText>NONE</spdx:copyrightText>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="N1af5d08cf4864eb1be821082c7b81b32">
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-108">
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="Nad5e9a4e72c8413497d00b36ec7f9fa8">
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                <spdx:checksumValue>8ea176709ce29dd344f8aa7f74d743f31f2d517c</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:copyrightText>NONE</spdx:copyrightText>
+            <spdx:fileName>./spring-petclinic/src/main/resources/static/resources/fonts/montserrat-webfont.eot</spdx:fileName>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="N6cbf3392486a4891bba4c0293d4ffa91">
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-85">
+            <spdx:fileName>./spring-petclinic/src/main/resources/db/mysql/data.sql</spdx:fileName>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+            <spdx:copyrightText>NONE</spdx:copyrightText>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="N625307bc735f4955a0a87cf5c3e14897">
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                <spdx:checksumValue>a7bfee8a0f475b5703b8a9105bf20a395fe1be4c</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="Na9b2d22562ec4f138b799465814e6dc0">
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-65">
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="N372c2cb7457e4292b4172886aa943b2f">
+                <spdx:checksumValue>7e0278995b518675eacfd215e76a5ba2ef79ad36</spdx:checksumValue>
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:fileName>./spring-petclinic/src/main/java/org/springframework/samples/petclinic/system/WelcomeController.java</spdx:fileName>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/Apache-2.0"/>
+            <spdx:copyrightText>Copyright 2012-2019 the original author or authors
+</spdx:copyrightText>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="Nc8a03ada77e2472288ecc8d41be9a4ab">
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-11">
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="Nd4bcfff7af3741eb89cb9f9154874fc4">
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                <spdx:checksumValue>a7ead00a3812ac7198d75d432310fcc23c7f696a</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:copyrightText>NONE</spdx:copyrightText>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/Apache-2.0"/>
+            <spdx:fileName>./spring-petclinic/pom.xml</spdx:fileName>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="Nf9efe1c81d4c44bfa1903e4e6482dc7f">
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-29">
+            <spdx:copyrightText>NONE</spdx:copyrightText>
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="N1eab5da9902840afa39be9437717de0d">
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                <spdx:checksumValue>abf08035a417f807e3d91c559b793ad20f5638ab</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:fileName>./spring-petclinic/gradle/wrapper/gradle-wrapper.jar</spdx:fileName>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="Nddc41bddcd72493387c5c0c35ccdbd15">
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-111">
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="N3560b77d501248c3a613e41e7f71fce2">
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                <spdx:checksumValue>f33422a343c6cd4ecb877948c1ccb8251ad3b5bf</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:fileName>./spring-petclinic/src/main/resources/static/resources/fonts/montserrat-webfont.woff</spdx:fileName>
+            <spdx:copyrightText>NONE</spdx:copyrightText>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="N776060605b2a495ba7201849af162966">
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-52">
+            <spdx:fileName>./spring-petclinic/src/main/java/org/springframework/samples/petclinic/owner/Owner.java</spdx:fileName>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/Apache-2.0"/>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:copyrightText>Copyright 2012-2019 the original author or authors
+</spdx:copyrightText>
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="N7bfdb10a81f743eab176f29553919492">
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                <spdx:checksumValue>6229579509baed80f1f2563273e662c7a0d7b6ec</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="Nef6e976e15af492fa844717fa4763ae7">
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-48">
+            <spdx:fileName>./spring-petclinic/src/main/java/org/springframework/samples/petclinic/model/NamedEntity.java</spdx:fileName>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="N93dbc32c5c6344908b1fe20ec327be72">
+                <spdx:checksumValue>42ce04361fe96ddd09d842db95c331068f2a5a8e</spdx:checksumValue>
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/Apache-2.0"/>
+            <spdx:copyrightText>Copyright 2012-2019 the original author or authors
+</spdx:copyrightText>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="N963e01d617ac421ebb2f0b4c62f53a12">
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-135">
+            <spdx:copyrightText>NONE</spdx:copyrightText>
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="Nb5fa4534a19244c18fdeb93919601232">
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                <spdx:checksumValue>b44a723f2c3d7709885b1f3918fc896495d770b9</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:fileName>./spring-petclinic/src/main/resources/templates/pets/createOrUpdatePetForm.html</spdx:fileName>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="N9c05cc8a8cea45cfb16142373062cfc0">
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-174">
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/GPL-2.0-only"/>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/Apache-2.0"/>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/BSD-3-Clause"/>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/EPL-1.0"/>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/EPL-2.0"/>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/CC0-1.0"/>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/Classpath-exception-2.0"/>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/MPL-2.0"/>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/MIT"/>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/BSD-2-Clause"/>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/Universal-FOSS-exception-1.0"/>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/LicenseRef-scancode-free-unknown"/>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/LGPL-2.1-only"/>
+            <spdx:fileName>./spring-petclinic/target/bom.json</spdx:fileName>
+            <spdx:copyrightText>NONE</spdx:copyrightText>
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="N47d66a26994743cf8e51021fcd3f9fb4">
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                <spdx:checksumValue>76e92166179f4e9d21f99628c2095186054e11bb</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="Nc545905b0dd64a7c9b7c360c5b355b43">
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-150">
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/Apache-2.0"/>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:copyrightText>Copyright 2012-2019 the original author or authors
+</spdx:copyrightText>
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="N17a574adf0034655ac4d77b1effad6ae">
+                <spdx:checksumValue>e2c09346a86c94d6bb64c2f3343be8ba121daa4a</spdx:checksumValue>
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:fileName>./spring-petclinic/src/test/java/org/springframework/samples/petclinic/MySqlIntegrationTests.java</spdx:fileName>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="Na1d1ce6acebb47c2b41546f73dff4dfb">
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-160">
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/Apache-2.0"/>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:fileName>./spring-petclinic/src/test/java/org/springframework/samples/petclinic/owner/PetValidatorTests.java</spdx:fileName>
+            <spdx:copyrightText>Copyright 2012-2024 the original author or authors
+</spdx:copyrightText>
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="N2771da86ecfd4759be22afb39b33b0e3">
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                <spdx:checksumValue>6c009c1e09986d4aa5ee150d2a9ed36a89daaaea</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="Nb79ee18829d94ee390fba83bd13dfaf8">
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-131">
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="Nfdf73566ea5e48218a2cca5a497e9184">
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                <spdx:checksumValue>0207e094e155e60fa49411e958ce3e61a417513e</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:copyrightText>NONE</spdx:copyrightText>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:fileName>./spring-petclinic/src/main/resources/templates/owners/findOwners.html</spdx:fileName>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="Nec484ccdfaeb439bbd605be1c7299827">
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-99">
+            <spdx:copyrightText>NONE</spdx:copyrightText>
+            <spdx:fileName>./spring-petclinic/src/main/resources/messages/messages_ko.properties</spdx:fileName>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="Neb6ff008869443db997910da20eb5059">
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                <spdx:checksumValue>00d776018e4fb84b12647877e01c5758318cb413</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="N49301788a03646d7a524a170e5460f7f">
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-45">
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="N0eb2ceb56c6d44939bf22fa9f2a1ba75">
+                <spdx:checksumValue>a22c40ac52da12edaa0e2ac59438a75439cf4630</spdx:checksumValue>
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:fileName>./spring-petclinic/src/main/java/org/springframework/samples/petclinic/PetClinicRuntimeHints.java</spdx:fileName>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/Apache-2.0"/>
+            <spdx:copyrightText>Copyright 2012-2019 the original author or authors
+</spdx:copyrightText>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="Nd2f56cf3110b471c91552f01a6d958bd">
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-36">
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="N144cf3544b99411db8e128f8bbca83b9">
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                <spdx:checksumValue>bc469a4b4b5e362557bc2f94d3e7857990820038</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:fileName>./spring-petclinic/src/checkstyle/nohttp-checkstyle-suppressions.xml</spdx:fileName>
+            <spdx:copyrightText>NONE</spdx:copyrightText>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="N63cfcf04b9aa4edeb427250195145bc5">
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-49">
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:fileName>./spring-petclinic/src/main/java/org/springframework/samples/petclinic/model/package-info.java</spdx:fileName>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/Apache-2.0"/>
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="Nd12c174aef244da8beffb6429f5a60b0">
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                <spdx:checksumValue>60eae53f46a06630f78cb927bbd47738d95c4bec</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:copyrightText>Copyright 2012-2019 the original author or authors
+</spdx:copyrightText>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="N245e6e8186814a4c81a12037fd53e8aa">
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-166">
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/Apache-2.0"/>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="N4beb4e6099df4fe28af621c9704b6dbd">
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                <spdx:checksumValue>6f901a927603c2ca5543e3ea929f9cb02c31e552</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:copyrightText>Copyright 2012-2019 the original author or authors
+</spdx:copyrightText>
+            <spdx:fileName>./spring-petclinic/src/test/java/org/springframework/samples/petclinic/system/CrashControllerIntegrationTests.java</spdx:fileName>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="N727b60d58c7e462f9ca8327649b2d5e4">
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-157">
+            <spdx:fileName>./spring-petclinic/src/test/java/org/springframework/samples/petclinic/owner/OwnerControllerTests.java</spdx:fileName>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="N85e215ac8fca4bc6998d9146eb38650c">
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                <spdx:checksumValue>3c30a29c59b6e8d496217d8f31781de3d428e356</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/Apache-2.0"/>
+            <spdx:copyrightText>Copyright 2012-2019 the original author or authors
+</spdx:copyrightText>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="Nabad641ccfcc4e5aab929dc2c5205932">
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-142">
+            <spdx:copyrightText>NONE</spdx:copyrightText>
+            <spdx:fileName>./spring-petclinic/src/main/scss/responsive.scss</spdx:fileName>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="N5f16b00e9b204df9a2840b5f836e7f54">
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                <spdx:checksumValue>6f11389be6e13f049d760751b04b68e60a46e6a5</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="N18ccc67e7b2347f89c583a6019d5c12c">
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-69">
+            <spdx:copyrightText>Copyright 2012-2019 the original author or authors
+</spdx:copyrightText>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/Apache-2.0"/>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="N197c04f44e3d4e4981252735a67ca39f">
+                <spdx:checksumValue>2137f08a97c3c1fbe1828e201b667c7c6843ca40</spdx:checksumValue>
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:fileName>./spring-petclinic/src/main/java/org/springframework/samples/petclinic/vet/VetController.java</spdx:fileName>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="Ndb44a26bef864ffdb6c3a59299a1a0bd">
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-98">
+            <spdx:copyrightText>NONE</spdx:copyrightText>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+            <spdx:fileName>./spring-petclinic/src/main/resources/messages/messages_fa.properties</spdx:fileName>
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="Ne021ee8d8abf4d898eb298375bc48025">
+                <spdx:checksumValue>f1ff7c88324d70131f73d4da20bb075654c39c5b</spdx:checksumValue>
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+              </spdx:Checksum>
+            </spdx:checksum>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="N250dfb4fde4e492faa8d5816ba605e36">
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-114">
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="Ne1829e7d2d5d43e5bebc5c741d95c8ec">
+                <spdx:checksumValue>e0dbddb6c7d838c78a624bf6f23ce1686a8db200</spdx:checksumValue>
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:fileName>./spring-petclinic/src/main/resources/static/resources/fonts/varela_round-webfont.ttf</spdx:fileName>
+            <spdx:copyrightText>Copyright (c) 2011, Joe Prince, Admix Designs (http://www.admixdesigns.com/)
+(c) 2011, Joe Prince, Admix Designs (http://www.admixdesigns.com/)
+</spdx:copyrightText>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/OFL-1.1"/>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="N15d42e8debc0447eab8bf6ea36ad169e">
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-10">
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="N8ba38ce320104d129e2e451f284af1a0">
+                <spdx:checksumValue>321fc1a2dbf532e278e28e8c399b5f139ff46175</spdx:checksumValue>
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/Apache-2.0"/>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:fileName>./spring-petclinic/mvnw.cmd</spdx:fileName>
+            <spdx:copyrightText>NONE</spdx:copyrightText>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="Nebde7564a6004bf09cb0170a35d949cc">
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-73">
+            <spdx:fileName>./spring-petclinic/src/main/resources/application-mysql.properties</spdx:fileName>
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="N0fcf6ad095134075b6d3d69b7373f1be">
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                <spdx:checksumValue>07e071dc61c3856a8226a2900cd62325d8b11414</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:copyrightText>NONE</spdx:copyrightText>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="N3e898f25372541d18ae077db1c4a0661">
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-70">
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="N7ba01c95eaea4b47b6ac55ddf6d96c30">
+                <spdx:checksumValue>ba8068ae2ac3efa4732d00865ae88b10ed922c52</spdx:checksumValue>
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:fileName>./spring-petclinic/src/main/java/org/springframework/samples/petclinic/vet/VetRepository.java</spdx:fileName>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/Apache-2.0"/>
+            <spdx:copyrightText>Copyright 2012-2019 the original author or authors
+</spdx:copyrightText>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="N9c692b125b0b4c16b9ca94ac413f9abb">
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-30">
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="N098c24741f6845a299e79137551f586a">
+                <spdx:checksumValue>2439983ae1aac6c402de593d9f1dc3f4e93a3579</spdx:checksumValue>
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:fileName>./spring-petclinic/gradle/wrapper/gradle-wrapper.properties</spdx:fileName>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+            <spdx:copyrightText>NONE</spdx:copyrightText>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="N093438e773124d38a7d38c6898a1f560">
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-22">
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+            <spdx:copyrightText>NONE</spdx:copyrightText>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="Nf2b2172cfdc94fa3811de2653c2519f5">
+                <spdx:checksumValue>563e506a3cda1947e1073f04c43c2e8150ed4a10</spdx:checksumValue>
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:fileName>./spring-petclinic/.github/workflows/gradle-build.yml</spdx:fileName>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="Nc198b7ceb50c4fa58600dd87f4105b39">
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-57">
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:fileName>./spring-petclinic/src/main/java/org/springframework/samples/petclinic/owner/PetType.java</spdx:fileName>
+            <spdx:copyrightText>Copyright 2012-2019 the original author or authors
+</spdx:copyrightText>
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="N8efddcd995714af0a18a5f518d219aec">
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                <spdx:checksumValue>d00e0aea02bb5b8194cadba0420a23a1200cb24c</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/Apache-2.0"/>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="N426eebc41d864e3c966fd6f8fc7097ad">
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-138">
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="N6f3776692255452c886e1053e33bb25e">
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                <spdx:checksumValue>7ba39596a555ae20b234c1397e2cec95789d0cf3</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:copyrightText>NONE</spdx:copyrightText>
+            <spdx:fileName>./spring-petclinic/src/main/resources/templates/vets/vetList.html</spdx:fileName>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="Nc495f69efa42464f8660bf53c285de8d">
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-169">
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="N2d6c6bbe03494d47bcb08cedf12667fe">
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                <spdx:checksumValue>76ec8d2112fdc063c6c33635b41689f937dab58f</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:fileName>./spring-petclinic/src/test/java/org/springframework/samples/petclinic/vet/VetControllerTests.java</spdx:fileName>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/Apache-2.0"/>
+            <spdx:copyrightText>Copyright 2012-2019 the original author or authors
+</spdx:copyrightText>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="N73dbf06589214ee581ebb5d337cd3c14">
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-110">
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="N2adf801dec0d4d7c87e4aed44891f8ae">
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                <spdx:checksumValue>65009ccf906002aae23a4eb8361e3b746d2ce083</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:fileName>./spring-petclinic/src/main/resources/static/resources/fonts/montserrat-webfont.ttf</spdx:fileName>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/OFL-1.1"/>
+            <spdx:copyrightText>Copyright (c) 2011-2012, Julieta Ulanovsky (julieta.ulanovsky@gmail.com)
+</spdx:copyrightText>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="Na2561ae8bd7445278509f439793881be">
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-112">
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+            <spdx:fileName>./spring-petclinic/src/main/resources/static/resources/fonts/varela_round-webfont.eot</spdx:fileName>
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="N69cfe8c018ce4d47a3b94d5a56e709c6">
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                <spdx:checksumValue>7bd8f95b19e11144fd80159f4a6a4375d1a7bd34</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:copyrightText>NONE</spdx:copyrightText>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="N7eeaf31d18cd4521a8bb6599c3764570">
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-83">
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="N41a58d2c4ac341eab0b5a1eb1614b50e">
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                <spdx:checksumValue>f1ae1806eefb702b15623a2b287d64c9d3dbdf93</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:fileName>./spring-petclinic/src/main/resources/db/hsqldb/schema.sql</spdx:fileName>
+            <spdx:copyrightText>NONE</spdx:copyrightText>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="N26c1faf0469045db9c3e71fecca17f66">
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-87">
+            <spdx:copyrightText>NONE</spdx:copyrightText>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="N9a70a40a3b9d4215a50c9f2499e4c9bf">
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                <spdx:checksumValue>da0a4b7904e97a2d2e975a6c4fcbe260bd5af096</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:fileName>./spring-petclinic/src/main/resources/db/mysql/schema.sql</spdx:fileName>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="Ne280af1ffbe54a9cb2247ce56696b3f9">
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-14">
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="N4a02294002ba42989ac75482c25489ec">
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                <spdx:checksumValue>eea0d1a97f08c59e2040139211fdb6a802e37597</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:copyrightText>NONE</spdx:copyrightText>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:fileName>./spring-petclinic/settings.gradle</spdx:fileName>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="N23d5fd29f8f749228b1f032eee35a24f">
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-67">
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/Apache-2.0"/>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:fileName>./spring-petclinic/src/main/java/org/springframework/samples/petclinic/vet/Specialty.java</spdx:fileName>
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="N6558710540694327ba4ed2a4f90e3a98">
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                <spdx:checksumValue>d4741feb4638deb2dbb321f2fce8f2fc2a4ef7e9</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:copyrightText>Copyright 2012-2019 the original author or authors
+</spdx:copyrightText>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="Nb326caf1a0164fc29288614d29ab8205">
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-61">
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/Apache-2.0"/>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="N03fa6301803b427ba2bd70791e4f83cc">
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                <spdx:checksumValue>b66c55d2575948094586e4bb6f6d666ca522f0c4</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:copyrightText>Copyright 2012-2019 the original author or authors
+</spdx:copyrightText>
+            <spdx:fileName>./spring-petclinic/src/main/java/org/springframework/samples/petclinic/owner/VisitController.java</spdx:fileName>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="N9ce6e550625c405583415eb145231ffa">
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-175">
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/EPL-1.0"/>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/EPL-2.0"/>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/CC0-1.0"/>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/Classpath-exception-2.0"/>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/MIT"/>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/BSD-2-Clause"/>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/GPL-2.0-only"/>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/Universal-FOSS-exception-1.0"/>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/LicenseRef-scancode-free-unknown"/>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/Apache-2.0"/>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/BSD-3-Clause"/>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/LGPL-2.1-only"/>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/LGPL-2.0-or-later"/>
+            <spdx:fileName>./spring-petclinic/target/bom.pb</spdx:fileName>
+            <spdx:copyrightText>NONE</spdx:copyrightText>
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="Na7a385f41db9456381f5e532f86cd25f">
+                <spdx:checksumValue>d39f2d8ec1425a151dbb0664183bca61f14e2c3d</spdx:checksumValue>
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="N004a809a51c344c9a3a3130f56519f38">
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-170">
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="N21ec93e5306b4e8f86c9e235df1c370f">
+                <spdx:checksumValue>60049787877b57c48154b84130d22d002eacb0fc</spdx:checksumValue>
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:copyrightText>Copyright 2012-2019 the original author or authors
+</spdx:copyrightText>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/Apache-2.0"/>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:fileName>./spring-petclinic/src/test/java/org/springframework/samples/petclinic/vet/VetTests.java</spdx:fileName>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="N2e5fc17ca346408ca434de52ae599cf5">
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-94">
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="Nb115ba64b47646f4af00ff64a6e93161">
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                <spdx:checksumValue>fd77b6ccdbf094e91eaecf47da8b1ecd58212964</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+            <spdx:fileName>./spring-petclinic/src/main/resources/messages/messages.properties</spdx:fileName>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:copyrightText>NONE</spdx:copyrightText>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="N171c3f3d2b044d239f1f744dcd7b379c">
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-127">
+            <spdx:fileName>./spring-petclinic/src/main/resources/templates/fragments/layout.html</spdx:fileName>
+            <spdx:copyrightText>NONE</spdx:copyrightText>
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="N60e21c1529db4a368f063ade6b48d6f6">
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                <spdx:checksumValue>19ba17c933b418cc1d0bcf3cbbfdf5bb9a407978</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="N7cbe1d711968451483166b7e1013507f">
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-59">
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/Apache-2.0"/>
+            <spdx:copyrightText>Copyright 2012-2019 the original author or authors
+</spdx:copyrightText>
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="Ne43bc1e4a15b41a58c6c75a9ce9c5051">
+                <spdx:checksumValue>fef5ec896529a6b6b5df3041f6d9d2cd08154ee4</spdx:checksumValue>
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:fileName>./spring-petclinic/src/main/java/org/springframework/samples/petclinic/owner/PetValidator.java</spdx:fileName>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="N06063639b4a8477784a5b19b82a22b61">
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-55">
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="Nc5b3d72573d64642b42b69051c8d9a3a">
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                <spdx:checksumValue>5eac0fb1c25bd0fa2d2a3000dd2fd81908717c7c</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/Apache-2.0"/>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:fileName>./spring-petclinic/src/main/java/org/springframework/samples/petclinic/owner/Pet.java</spdx:fileName>
+            <spdx:copyrightText>Copyright 2012-2019 the original author or authors
+</spdx:copyrightText>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="N5bf4ef8b6af743828612f2fc94a63333">
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-159">
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="Nde9accd3c57a43cc9060e4aaf2e81b6e">
+                <spdx:checksumValue>dfbcecdd5c083e701d64dd2f807838edf46440c3</spdx:checksumValue>
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:fileName>./spring-petclinic/src/test/java/org/springframework/samples/petclinic/owner/PetTypeFormatterTests.java</spdx:fileName>
+            <spdx:copyrightText>Copyright 2012-2019 the original author or authors
+</spdx:copyrightText>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/Apache-2.0"/>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="N0e175d66da9c40f1943eee3a27c084d5">
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-6">
+            <spdx:copyrightText>Copyright (c) 2015-2021 the original
+</spdx:copyrightText>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/Apache-2.0"/>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:fileName>./spring-petclinic/gradlew</spdx:fileName>
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="N5ad581e62573459da93c06c32ea8544b">
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                <spdx:checksumValue>8354dd64ce8112f42852288ed83e22d0b26a3e4c</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="N0c7ad2c5207b48f481d9a97a70497214">
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-74">
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:copyrightText>NONE</spdx:copyrightText>
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="Ndbdc593351664b72854c8491f9900c1e">
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                <spdx:checksumValue>c41de0a356ba820d5c5d660321622da8741a9315</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:fileName>./spring-petclinic/src/main/resources/application-postgres.properties</spdx:fileName>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="Nbfca884e2f034b44b074f95d165d7c1b">
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-124">
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:copyrightText>NONE</spdx:copyrightText>
+            <spdx:fileName>./spring-petclinic/src/main/resources/templates/welcome.html</spdx:fileName>
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="N4644714433a44cf2922519712b318108">
+                <spdx:checksumValue>43d84160bef07df835beb8234f1226217836d37d</spdx:checksumValue>
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="Nfb7592ea73b04b06b1b2aef788cefe3b">
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-164">
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:fileName>./spring-petclinic/src/test/java/org/springframework/samples/petclinic/service/EntityUtils.java</spdx:fileName>
+            <spdx:copyrightText>Copyright 2012-2019 the original author or authors
+</spdx:copyrightText>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/Apache-2.0"/>
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="N7de9bfd67893455e8b1771ca894d0f9d">
+                <spdx:checksumValue>0edef8421cc97d07b9fe43e69b880e0ab54e154f</spdx:checksumValue>
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+              </spdx:Checksum>
+            </spdx:checksum>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="N2b694216035241ad87fce0a137604dd4">
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-161">
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/Apache-2.0"/>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="Nd208017ee4594c47ac5da6410c07aa94">
+                <spdx:checksumValue>79b60f9d8c7a2f1c165257b917ea22d3055c414e</spdx:checksumValue>
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:copyrightText>Copyright 2012-2019 the original author or authors
+</spdx:copyrightText>
+            <spdx:fileName>./spring-petclinic/src/test/java/org/springframework/samples/petclinic/owner/VisitControllerTests.java</spdx:fileName>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="N5ddb9a5c7aed46e0b59f4c3ced22e44a">
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-23">
+            <spdx:fileName>./spring-petclinic/.github/workflows/maven-build.yml</spdx:fileName>
+            <spdx:copyrightText>NONE</spdx:copyrightText>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="N47fc1dcc5bdd4f06ac21f7a37b21ae38">
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                <spdx:checksumValue>aeee0142e6f7f7938261491ba8866e32632db0d8</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="Nf53fa56ffd8f4515ad27d7cf40476d13">
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-7">
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/Apache-2.0"/>
+            <spdx:copyrightText>Copyright 2015 the original author or authors
+</spdx:copyrightText>
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="N38449c1ddfe947f1b62e1ccde692024e">
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                <spdx:checksumValue>f6334c7d62f27d3e1af81f5896e30aeeebcef324</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:fileName>./spring-petclinic/gradlew.bat</spdx:fileName>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="N6a4ce3c472754dbe9db7ad2d956c0ac8">
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-106">
+            <spdx:fileName>./spring-petclinic/src/main/resources/static/resources/css/petclinic.css</spdx:fileName>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/MIT"/>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/Apache-2.0"/>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="N0c7f959041be40788e7126b3565ec906">
+                <spdx:checksumValue>6bd1ca3b85028b06435419ad3dc30c97f14e1909</spdx:checksumValue>
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:copyrightText>Copyright 2016 the original author or authors
+Copyright 2011-2024 The Bootstrap Authors
+</spdx:copyrightText>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="N3a9b7f9f82784f3a9ef2c29af83028c1">
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-33">
+            <spdx:copyrightText>NONE</spdx:copyrightText>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+            <spdx:fileName>./spring-petclinic/k8s/petclinic.yml</spdx:fileName>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="Nedd4ac2b28304f42bbc2d0c5dd26b958">
+                <spdx:checksumValue>e3d6e99dcf1b21f38d183b812379fd36978702e5</spdx:checksumValue>
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+              </spdx:Checksum>
+            </spdx:checksum>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="N8812c50fffcf45cca11c98caf8f07d58">
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-16">
+            <spdx:fileName>./spring-petclinic/.devcontainer/devcontainer.json</spdx:fileName>
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="Nbe387db344a64e6c9a34db16113994cf">
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                <spdx:checksumValue>7aa69c7428716b482da79d877128f664b3708b85</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:copyrightText>NONE</spdx:copyrightText>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="N5fb3f2f1fead4e8a86f53271b020d140">
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-88">
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:copyrightText>NONE</spdx:copyrightText>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="Ndbd462dd04e94195960da0abfb178d14">
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                <spdx:checksumValue>d13fd4ad650c0ea475ee48e6d87e9e45e48e8087</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:fileName>./spring-petclinic/src/main/resources/db/mysql/user.sql</spdx:fileName>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="N129ee3fcccad495286c12d223de41d3f">
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-133">
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="N6bce660247e44b53890324baa51404d8">
+                <spdx:checksumValue>85bc21ade4c0ff2b217e4fa3c88b278b74ba1ac6</spdx:checksumValue>
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+            <spdx:fileName>./spring-petclinic/src/main/resources/templates/owners/ownersList.html</spdx:fileName>
+            <spdx:copyrightText>NONE</spdx:copyrightText>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="N8957b8ffc85a4254a67e466a850bba89">
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-71">
+            <spdx:copyrightText>Copyright 2012-2019 the original author or authors
+</spdx:copyrightText>
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="N7c64c10022a54195aea9eeccef8a7d29">
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                <spdx:checksumValue>c55a455d46fe4dfa7decf27838396ccb6504857a</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:fileName>./spring-petclinic/src/main/java/org/springframework/samples/petclinic/vet/Vets.java</spdx:fileName>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/Apache-2.0"/>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="N5122fdc26feb46109709f32f57688766">
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-26">
+            <spdx:fileName>./spring-petclinic/.mvn/wrapper/maven-wrapper.properties</spdx:fileName>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/Apache-2.0"/>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:copyrightText>NONE</spdx:copyrightText>
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="N23adcc57ead84982b066db17e9e94347">
+                <spdx:checksumValue>10c67c0832b3b7fafe7c7db61ebf367b3d68c1cb</spdx:checksumValue>
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+              </spdx:Checksum>
+            </spdx:checksum>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="N8dcf150566da498496b53fc99860e42f">
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-47">
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:fileName>./spring-petclinic/src/main/java/org/springframework/samples/petclinic/model/BaseEntity.java</spdx:fileName>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/Apache-2.0"/>
+            <spdx:copyrightText>Copyright 2012-2019 the original author or authors
+</spdx:copyrightText>
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="Ne67e553ebdcc4a4f86ec67b7856a61ce">
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                <spdx:checksumValue>91129626fe57acde2d842c52c898711d250e0b65</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="N3d0f0580a095474e833be0192165ecc4">
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-155">
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/Apache-2.0"/>
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="Nf100ba19c7ee4413980aea5b63baf4e3">
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                <spdx:checksumValue>5d4ecf111490e15cb65438c327aa1fbd2b68d9bd</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:copyrightText>Copyright 2012-2019 the original author or authors
+</spdx:copyrightText>
+            <spdx:fileName>./spring-petclinic/src/test/java/org/springframework/samples/petclinic/model/ValidatorTests.java</spdx:fileName>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="Nfbbf93490942412b8dbafa458bf01c55">
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-97">
+            <spdx:copyrightText>NONE</spdx:copyrightText>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="Nc7f4be9d7ac94e7183de462e75ad871b">
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                <spdx:checksumValue>fee8b02e216c6190dc7012d0ce82cb620747dd58</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:fileName>./spring-petclinic/src/main/resources/messages/messages_es.properties</spdx:fileName>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="Naa2d1672a7ac45c884c34ef446ef23bd">
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-90">
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:fileName>./spring-petclinic/src/main/resources/db/postgres/data.sql</spdx:fileName>
+            <spdx:copyrightText>NONE</spdx:copyrightText>
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="Nde69c8bfa14f4ea9af2c186e02460ffb">
+                <spdx:checksumValue>ef7666ed183bffed3d96c03b16496e34f4f8584a</spdx:checksumValue>
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="N4ceaa73cb94f4fb88b0a16fd6efd8498">
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-8">
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="Nb2c07ab88def45be8d75cdbf60d79bd0">
+                <spdx:checksumValue>9e72cc8f584b4a6777f308ea6a5901d40b07b07d</spdx:checksumValue>
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/Apache-2.0"/>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:fileName>./spring-petclinic/LICENSE.txt</spdx:fileName>
+            <spdx:copyrightText>NONE</spdx:copyrightText>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="N02acd57a419c48038b324ac1cdb4ae26">
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-3">
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="Ne01a56a038164d4983673b9530fbb748">
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                <spdx:checksumValue>43f2f3c77fc8fb4ee40e1dd7d3598d4e2221b0fb</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:fileName>./spring-petclinic/.gitpod.yml</spdx:fileName>
+            <spdx:copyrightText>NONE</spdx:copyrightText>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="N01fdf8214af441dcbb08c62be2667424">
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-163">
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:fileName>./spring-petclinic/src/test/java/org/springframework/samples/petclinic/service/ClinicServiceTests.java</spdx:fileName>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/Apache-2.0"/>
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="N39912e3507d44125896e32eb6a2a5520">
+                <spdx:checksumValue>a24f72f4eb87b09e58936c3903a30e54eca8865a</spdx:checksumValue>
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:copyrightText>Copyright 2012-2019 the original author or authors
+</spdx:copyrightText>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="N21cea022a940401ea3902b51ea93d4e3">
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-5">
+            <spdx:fileName>./spring-petclinic/docker-compose.yml</spdx:fileName>
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="N949dd4bd75514a0e9d6f8b3ec7934412">
+                <spdx:checksumValue>de1cfd7e9307cf3ef113776519e6330ccb4da9b1</spdx:checksumValue>
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:copyrightText>NONE</spdx:copyrightText>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="N9b62331bc3884598a4d7047a5acd9de2">
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-153">
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="Nbe6f56de6d2f474498a4ff50f6b3ca89">
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                <spdx:checksumValue>0bfad7a4fc725325d9a826d853c86983f75d1361</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:fileName>./spring-petclinic/src/test/java/org/springframework/samples/petclinic/PostgresIntegrationTests.java</spdx:fileName>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/Apache-2.0"/>
+            <spdx:copyrightText>Copyright 2012-2019 the original author or authors
+</spdx:copyrightText>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="Nb729dbd1e90f409686790fe3a17b3aed">
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-60">
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="Nabf0b22ec2404d28a68efa2e2beb7f89">
+                <spdx:checksumValue>cd0d574479e6301e35811ffcd4f3713b6b00c684</spdx:checksumValue>
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/Apache-2.0"/>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:fileName>./spring-petclinic/src/main/java/org/springframework/samples/petclinic/owner/Visit.java</spdx:fileName>
+            <spdx:copyrightText>Copyright 2012-2019 the original author or authors
+</spdx:copyrightText>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="N6645d66480d74ada8039cecb4cf65e2e">
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-86">
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:fileName>./spring-petclinic/src/main/resources/db/mysql/petclinic_db_setup_mysql.txt</spdx:fileName>
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="Ndfac1c8d944f4742af10442b638de38a">
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                <spdx:checksumValue>fdfc5aaabe3692ada2dcde21e3cad4b087dc4a7f</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+            <spdx:copyrightText>NONE</spdx:copyrightText>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="N953a69076516482d8c9cbcdb04a98f9f">
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-58">
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="N4ecd33291e3b41d7a8e1a54777d79a0c">
+                <spdx:checksumValue>7dbe9d3bb667cc1bbcc2ccd13b504137afb099ee</spdx:checksumValue>
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/Apache-2.0"/>
+            <spdx:copyrightText>Copyright 2012-2019 the original author or authors
+</spdx:copyrightText>
+            <spdx:fileName>./spring-petclinic/src/main/java/org/springframework/samples/petclinic/owner/PetTypeFormatter.java</spdx:fileName>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="Ncbb7ab72550449b891e60181367c0ed9">
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-95">
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="N73fd01d20615434d93058fb680c52d28">
+                <spdx:checksumValue>706109391907406a7833f07a4c3dcc43d09bdbba</spdx:checksumValue>
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:fileName>./spring-petclinic/src/main/resources/messages/messages_de.properties</spdx:fileName>
+            <spdx:copyrightText>NONE</spdx:copyrightText>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="Na29476500501478a8d4cd30e2f5a1885">
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-176">
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/MIT"/>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/LGPL-2.1-or-later"/>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/BSD-2-Clause"/>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/GPL-2.0-only"/>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/Universal-FOSS-exception-1.0"/>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/Apache-2.0"/>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/LicenseRef-scancode-free-unknown"/>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/LGPL-2.1-only"/>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/BSD-3-Clause"/>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/EPL-1.0"/>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/EPL-2.0"/>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/CC0-1.0"/>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/LicenseRef-scancode-unknown-license-reference"/>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/Classpath-exception-2.0"/>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/LGPL-3.0-or-later"/>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/MPL-2.0"/>
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="N19783f15979544d699324a4735bf8cde">
+                <spdx:checksumValue>b558f812936c46af81d84dd5b40f278a6f0b4888</spdx:checksumValue>
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:fileName>./spring-petclinic/target/bom.xml</spdx:fileName>
+            <spdx:copyrightText>NONE</spdx:copyrightText>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="N17551343485f41fb839772e4c4d8e2b1">
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-54">
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/Apache-2.0"/>
+            <spdx:copyrightText>Copyright 2012-2019 the original author or authors
+</spdx:copyrightText>
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="Naccac9ba64c24b2087bfe46f76e26ba4">
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                <spdx:checksumValue>ed78f971c91d79d6d9eac826a580a72beafd41d5</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:fileName>./spring-petclinic/src/main/java/org/springframework/samples/petclinic/owner/OwnerRepository.java</spdx:fileName>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="N95ec6088e82147c18dce1454294a5979">
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-17">
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:fileName>./spring-petclinic/.devcontainer/Dockerfile</spdx:fileName>
+            <spdx:copyrightText>NONE</spdx:copyrightText>
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="N21481b00058d42098c22de7a764e4a7f">
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                <spdx:checksumValue>631d3ddedc561809b8266663781d722ac25ad40b</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="Nf185920b7b724fd5902526f03ad0fa18">
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-92">
+            <spdx:fileName>./spring-petclinic/src/main/resources/db/postgres/schema.sql</spdx:fileName>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:copyrightText>NONE</spdx:copyrightText>
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="Nbf9d2fccaefe4b1f81841bbd17566b15">
+                <spdx:checksumValue>491db5a35ec8567b4aad1637f991b19a3b2d990a</spdx:checksumValue>
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="Ne02706d57cd84a279cbecf7db6776af7">
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-151">
+            <spdx:fileName>./spring-petclinic/src/test/java/org/springframework/samples/petclinic/MysqlTestApplication.java</spdx:fileName>
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="N9bef3bd5abf54cc19f3321412a8d4346">
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                <spdx:checksumValue>d827592331b4ae3ffac2fdb0b016fee54ad8e7d7</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/Apache-2.0"/>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:copyrightText>Copyright 2012-2019 the original author or authors
+</spdx:copyrightText>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="N4cca21add95940dfba8f1a16043d43ab">
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-75">
+            <spdx:fileName>./spring-petclinic/src/main/resources/application.properties</spdx:fileName>
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="N22f5077381374dac97eb10cc42c600eb">
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                <spdx:checksumValue>c64afe585c08aa037d5d2243ba16daad6a6dd58e</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:copyrightText>NONE</spdx:copyrightText>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="Ndc8becc745c34f3b8f289d6a2eb6d5be">
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-50">
+            <spdx:copyrightText>Copyright 2012-2019 the original author or authors
+</spdx:copyrightText>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="Nae4bfdeeea834b08ba3dbfcba35a152c">
+                <spdx:checksumValue>2f3e53a2e59906d25b33ab6de0aabef19de375d1</spdx:checksumValue>
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:fileName>./spring-petclinic/src/main/java/org/springframework/samples/petclinic/model/Person.java</spdx:fileName>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/Apache-2.0"/>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="N73d628f4409f4c82ace427e1282e49ab">
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-19">
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:copyrightText>NONE</spdx:copyrightText>
+            <spdx:fileName>./spring-petclinic/.github/dco.yml</spdx:fileName>
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="Nec3bc4795f8244dd81c0b4de08e0ebd4">
+                <spdx:checksumValue>4fe72c3fc50578d4a28b81ebe33278227897feb1</spdx:checksumValue>
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="N4ae7affc27164c3b80a3175486ade45d">
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-118">
+            <spdx:copyrightText>NONE</spdx:copyrightText>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="Na2c127159a1b433f8d61cb5e6aa82e81">
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                <spdx:checksumValue>79e3c401efd046ebac2173f88250337d311b217b</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:fileName>./spring-petclinic/src/main/resources/static/resources/images/pets.png</spdx:fileName>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="N8b0d268daa3040a090a24f1c71cd4626">
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-91">
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="N213e67a15a2d4c50ba6047880c3bbb2e">
+                <spdx:checksumValue>0c880c93f67aeaa38c90ea52bbf51b953b3622eb</spdx:checksumValue>
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:fileName>./spring-petclinic/src/main/resources/db/postgres/petclinic_db_setup_postgres.txt</spdx:fileName>
+            <spdx:copyrightText>NONE</spdx:copyrightText>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="N18d2a2c2391a488a8dfb17133e054eee">
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-132">
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="Nac4929396962461785d1283d6f5821df">
+                <spdx:checksumValue>8fe604d19d5ee83c2cb6a487c2a7020466ae2093</spdx:checksumValue>
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:fileName>./spring-petclinic/src/main/resources/templates/owners/ownerDetails.html</spdx:fileName>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+            <spdx:copyrightText>NONE</spdx:copyrightText>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="Nbe8585a677504dbf829bd1564d2366e7">
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-117">
+            <spdx:copyrightText>NONE</spdx:copyrightText>
+            <spdx:fileName>./spring-petclinic/src/main/resources/static/resources/images/favicon.png</spdx:fileName>
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="N96e7ad4402b3465f967cc7f62ee0752e">
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                <spdx:checksumValue>b4223867690057c69f84d1857d77e9aafb2e06ac</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="N234859ad1997462986ef65e55106cd32">
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-123">
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="N30b9d7b8956c44a18f0091c0eb3fd435">
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                <spdx:checksumValue>319234915903914244b85219b7a2b774a4a1c3fb</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:copyrightText>NONE</spdx:copyrightText>
+            <spdx:fileName>./spring-petclinic/src/main/resources/templates/error.html</spdx:fileName>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="N36f55598079e4a4a8b1c69e5abb53334">
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-119">
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:copyrightText>NONE</spdx:copyrightText>
+            <spdx:fileName>./spring-petclinic/src/main/resources/static/resources/images/spring-logo-dataflow-mobile.png</spdx:fileName>
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="N9de4255c329d4ac1903b275540e4749b">
+                <spdx:checksumValue>01dfeb9fefbd653d5c5fba070c1eda9a2448e87c</spdx:checksumValue>
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="Nf3f24b3c6cd84033a504937f04b517ca">
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-100">
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+            <spdx:fileName>./spring-petclinic/src/main/resources/messages/messages_pt.properties</spdx:fileName>
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="N9019309ee90d4154a2d76471804a44fe">
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                <spdx:checksumValue>66efc9e29eab048831d8bf2e1f6bc04d7c0a2375</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:copyrightText>NONE</spdx:copyrightText>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="N95636a38d5b44722b618997f1a14436c">
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-44">
+            <spdx:fileName>./spring-petclinic/src/main/java/org/springframework/samples/petclinic/PetClinicApplication.java</spdx:fileName>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/Apache-2.0"/>
+            <spdx:copyrightText>Copyright 2012-2019 the original author or authors
+</spdx:copyrightText>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="N324eef52a8214415bc16da7d23334005">
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                <spdx:checksumValue>10f0f9a4ea54e00ec34fc7c31a66f01cffe58fd3</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="N46d20dcfded24c0ebcb4a2aae2059415">
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-76">
+            <spdx:fileName>./spring-petclinic/src/main/resources/banner.txt</spdx:fileName>
+            <spdx:copyrightText>NONE</spdx:copyrightText>
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="N44efa4a9720241cc97227be77d7eb781">
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                <spdx:checksumValue>38c297a91063280f5daa49cd4a4b7a2667ddcea8</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="Ne59445da3d834765b4a82c50e00a73a4">
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-21">
+            <spdx:copyrightText>NONE</spdx:copyrightText>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="N0c1f9a0628674359888cd0616516f897">
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                <spdx:checksumValue>6f21422c961946a313e7e1dceac4bf1ae807af02</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:fileName>./spring-petclinic/.github/workflows/deploy-and-test-cluster.yml</spdx:fileName>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="Nc38e2e11255d4c5f92417d15c8234024">
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-109">
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="N7f05a975645c41aab81b4d0ca53e2d9e">
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                <spdx:checksumValue>c5de4e26effde115d02c4fdcef252a23a9f8c6c1</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:copyrightText>NONE</spdx:copyrightText>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+            <spdx:fileName>./spring-petclinic/src/main/resources/static/resources/fonts/montserrat-webfont.svg</spdx:fileName>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="Nffbac8c2376f403e933ab1e86c3f40a8">
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-96">
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="N54be82c6a539458f871b962639ba2de9">
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                <spdx:checksumValue>5afefc8df417bab84ef9842d81344226b4ee3138</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:copyrightText>NONE</spdx:copyrightText>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:fileName>./spring-petclinic/src/main/resources/messages/messages_en.properties</spdx:fileName>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="N673ffd3087d443c1915a48a9ae079238">
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-102">
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="N215a4f6d93504f9caf94cba95d94915b">
+                <spdx:checksumValue>4ce180f8301def16c3aa82bbafaa04c910c9c4aa</spdx:checksumValue>
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:copyrightText>NONE</spdx:copyrightText>
+            <spdx:fileName>./spring-petclinic/src/main/resources/messages/messages_tr.properties</spdx:fileName>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="N296225c1ac6244409799fe49130d20a6">
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-130">
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:copyrightText>NONE</spdx:copyrightText>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="N17c6270e9e4e4b8bb705d2df5c45a2c0">
+                <spdx:checksumValue>5a9208627c6f7cbff1084700a1123f5fd3d6ebf2</spdx:checksumValue>
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:fileName>./spring-petclinic/src/main/resources/templates/owners/createOrUpdateOwnerForm.html</spdx:fileName>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="N469f27a044764045bd2a54a605feae09">
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-143">
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="N104d1f2fe2404e5b8021ab890f6da8c8">
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+                <spdx:checksumValue>06df9d7b808e4e454cb62f9ed0379a5f62219091</spdx:checksumValue>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:fileName>./spring-petclinic/src/main/scss/typography.scss</spdx:fileName>
+            <spdx:copyrightText>NONE</spdx:copyrightText>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:relationship>
+      <spdx:Relationship rdf:nodeID="N1c78bdc28a6a4d3e881d46e0c4c38b36">
+        <spdx:relatedSpdxElement>
+          <spdx:File rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-53">
+            <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+            <spdx:fileName>./spring-petclinic/src/main/java/org/springframework/samples/petclinic/owner/OwnerController.java</spdx:fileName>
+            <spdx:checksum>
+              <spdx:Checksum rdf:nodeID="N4e641b82abe144a188ce138807a4a8fa">
+                <spdx:checksumValue>f68e7a7923f9a143d27e734e5f4b099ec6d0440f</spdx:checksumValue>
+                <spdx:algorithm rdf:resource="http://spdx.org/rdf/terms#checksumAlgorithm_sha1"/>
+              </spdx:Checksum>
+            </spdx:checksum>
+            <spdx:licenseInfoInFile rdf:resource="http://spdx.org/licenses/Apache-2.0"/>
+            <spdx:copyrightText>Copyright 2012-2019 the original author or authors
+</spdx:copyrightText>
+          </spdx:File>
+        </spdx:relatedSpdxElement>
+        <spdx:relationshipType rdf:resource="http://spdx.org/rdf/terms#relationshipType_contains"/>
+      </spdx:Relationship>
+    </spdx:relationship>
+    <spdx:copyrightText>(c) 2011, Joe Prince, Admix Designs (http://www.admixdesigns.com/)
+Copyright (c) 2011, Joe Prince, Admix Designs (http://www.admixdesigns.com/)
+Copyright (c) 2011-2012, Julieta Ulanovsky (julieta.ulanovsky@gmail.com)
+Copyright (c) 2015-2021 the original
+Copyright 2011-2024 The Bootstrap Authors
+Copyright 2012-2019 the original author or authors
+Copyright 2012-2024 the original author or authors
+Copyright 2015 the original author or authors
+Copyright 2016 the original author or authors
+</spdx:copyrightText>
+    <spdx:licenseInfoFromFiles rdf:resource="http://spdx.org/licenses/LGPL-2.0-or-later"/>
+    <spdx:licenseInfoFromFiles rdf:resource="http://spdx.org/licenses/OFL-1.1"/>
+    <spdx:licenseInfoFromFiles rdf:resource="http://spdx.org/licenses/EPL-1.0"/>
+    <spdx:licenseInfoFromFiles rdf:resource="http://spdx.org/licenses/EPL-2.0"/>
+    <spdx:licenseInfoFromFiles rdf:resource="http://spdx.org/licenses/CC0-1.0"/>
+    <spdx:licenseInfoFromFiles rdf:resource="http://spdx.org/licenses/LicenseRef-scancode-unknown-license-reference"/>
+    <spdx:licenseInfoFromFiles rdf:resource="http://spdx.org/licenses/Classpath-exception-2.0"/>
+    <spdx:licenseInfoFromFiles rdf:resource="http://spdx.org/licenses/LGPL-3.0-or-later"/>
+    <spdx:licenseInfoFromFiles rdf:resource="http://spdx.org/licenses/MPL-2.0"/>
+    <spdx:licenseInfoFromFiles rdf:resource="http://spdx.org/licenses/MIT"/>
+    <spdx:licenseInfoFromFiles rdf:resource="http://spdx.org/licenses/LGPL-2.1-or-later"/>
+    <spdx:licenseInfoFromFiles rdf:resource="http://spdx.org/licenses/BSD-2-Clause"/>
+    <spdx:licenseInfoFromFiles rdf:resource="http://spdx.org/licenses/GPL-2.0-only"/>
+    <spdx:licenseInfoFromFiles rdf:resource="http://spdx.org/licenses/Universal-FOSS-exception-1.0"/>
+    <spdx:licenseInfoFromFiles rdf:resource="http://spdx.org/licenses/LicenseRef-scancode-free-unknown"/>
+    <spdx:licenseInfoFromFiles rdf:resource="http://spdx.org/licenses/Apache-2.0"/>
+    <spdx:licenseInfoFromFiles rdf:resource="http://spdx.org/licenses/BSD-3-Clause"/>
+    <spdx:licenseInfoFromFiles rdf:resource="http://spdx.org/licenses/LGPL-2.1-only"/>
+    <spdx:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+    <spdx:packageVerificationCode>
+      <spdx:PackageVerificationCode rdf:nodeID="N96150a16f2e84bd496a313a79825123b">
+        <spdx:packageVerificationCodeValue>fba66db67341f7534785d19fc63f5f6df7151933</spdx:packageVerificationCodeValue>
+      </spdx:PackageVerificationCode>
+    </spdx:packageVerificationCode>
+    <spdx:filesAnalyzed rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</spdx:filesAnalyzed>
+    <spdx:downloadLocation rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+    <spdx:licenseDeclared rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+    <spdx:name>spring_petclinic</spdx:name>
+  </spdx:Package>
+  <spdx:SpdxDocument rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#SPDXRef-DOCUMENT">
+    <spdx:creationInfo>
+      <spdx:CreationInfo rdf:nodeID="N04ad2c4e0ae9415db762a32a807d1e49">
+        <spdx:creator>Tool: scancode-toolkit v32.3.3-107-g1b90d50a93</spdx:creator>
+        <spdx:licenseListVersion>3.26</spdx:licenseListVersion>
+        <spdx:created>2025-04-15T11:45:16Z</spdx:created>
+      </spdx:CreationInfo>
+    </spdx:creationInfo>
+    <spdx:specVersion>SPDX-2.2</spdx:specVersion>
+    <rdfs:comment>Generated with ScanCode and provided on an "AS IS" BASIS, WITHOUT WARRANTIES
+OR CONDITIONS OF ANY KIND, either express or implied. No content created from
+ScanCode should be considered or used as legal advice. Consult an Attorney
+for any legal advice.
+ScanCode is a free software code scanning tool from nexB Inc. and others.
+Visit https://github.com/nexB/scancode-toolkit/ for support and download.
+SPDX License List: 3.26</rdfs:comment>
+    <spdx:hasExtractedLicensingInfo>
+      <spdx:ExtractedLicensingInfo rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#LicenseRef-scancode-free-unknown">
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/free-unknown.LICENSE
+</rdfs:comment>
+        <spdx:licenseId>LicenseRef-scancode-free-unknown</spdx:licenseId>
+        <spdx:name>Free unknown</spdx:name>
+        <spdx:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/free-unknown.LICENSE
+</spdx:extractedText>
+      </spdx:ExtractedLicensingInfo>
+    </spdx:hasExtractedLicensingInfo>
+    <spdx:hasExtractedLicensingInfo>
+      <spdx:ExtractedLicensingInfo rdf:about="http://spdx.org/spdxdocs/spring_petclinic-551ca125-ece1-48f3-839b-759a6dffcf35#LicenseRef-scancode-unknown-license-reference">
+        <spdx:licenseId>LicenseRef-scancode-unknown-license-reference</spdx:licenseId>
+        <spdx:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-license-reference.LICENSE
+</spdx:extractedText>
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown-license-reference.LICENSE
+</rdfs:comment>
+        <spdx:name>Unknown License reference</spdx:name>
+      </spdx:ExtractedLicensingInfo>
+    </spdx:hasExtractedLicensingInfo>
+    <spdx:name>SPDX Document created by ScanCode Toolkit</spdx:name>
+    <spdx:dataLicense rdf:resource="http://spdx.org/licenses/CC0-1.0"/>
+  </spdx:SpdxDocument>
+</rdf:RDF>
